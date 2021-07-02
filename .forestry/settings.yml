@@ -7,7 +7,6 @@ sections:
 - type: document
   path: layouts/contact/list.html
   label: Contact2
-  match: "**/*"
 - type: directory
   path: content/causes
   label: Causes
@@ -63,7 +62,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
+upload_dir: static/images
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
