@@ -26,3 +26,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/blog/neuigkeiten-vom-juni.md
