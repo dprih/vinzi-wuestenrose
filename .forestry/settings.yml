@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: layouts/contact/list.html
+  label: Contact2
+  match: "**/*"
 - type: directory
   path: content/causes
   label: Causes
