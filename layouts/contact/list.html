@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-sm-12 col-md-6">
+        <div class="contact-content">
+          <h2 class="mb-5">Wir freuen uns auf deine Nachricht! <br>Kontaktmöglichkeiten:</h2>
+          <ul class="address-block list-unstyled">
+            <!--
+            <li>
+              <h6 class="mb-2">Address</h6>
+              {{ .Site.Params.location | markdownify }}
+            </li>
+          -->
+            <li>
+              <h6 class="mb-2">email</h6>
+              {{ .Site.Params.email }}
+            </li>
+            <li>
+              <h6 class="mb-2">Telefonisch</h6>
+              {{ .Site.Params.phone }}
+            </li>
+          </ul>
+
+          <ul class="social-icons list-inline mt-5">
+            <li>
+              <h6 class="mb-3">Facebook</h6>
+            </li>
+            {{ range .Site.Params.social }}
+            <li class="list-inline-item">
+              <a href="{{ .link | safeURL }}"><i class="{{ .icon }} mr-2"></i></a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-5 col-sm-12 col-md-6">
+        
+    </div>
+  </div>
+</section>
+
+
+<!-- contact form start -->
+
+{{ end }}

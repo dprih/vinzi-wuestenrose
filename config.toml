@@ -1,0 +1,200 @@
+######################## default configuration ####################
+baseURL = "http://vinzi-wuestenrose.at/"
+languageCode = "de-de"
+title = "Vinzenzgemeinschaft Bezirk Murau - Wuestenrose"
+theme = "wishfund-hugo"
+summaryLength = "10"
+paginate = 6
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+######################### Plugins #################################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/css/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify/css/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/dist/magnific-popup.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick-carousel/slick/slick.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jquery/jquery.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/js/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/dist/jquery.magnific-popup.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick-carousel/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  [[params.plugins.js]]
+  URL = "plugins/google-map/map.js"
+  
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "ÜBER UNS"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "AKTUELLES"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.main]]
+  name = "PROJEKTE"
+  URL = "causes"
+  weight = 4
+
+  [[menu.main]]
+  weight = 5
+  name = "HELFEN"
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "HELFEN"
+    name = "Spende"
+    URL = "donation"
+
+    [[menu.main]]
+    parent = "HELFEN"
+    name = "Ehrenamt"
+    URL = "volunteer"
+  
+  [[menu.main]]
+  name = "TERMINE"
+  URL = "event"
+  weight = 6
+    
+  [[menu.main]]
+  name = "KONTAKT"
+  URL = "contact"
+  weight = 7
+
+  ################# footer menu ##################
+
+  [[menu.footer]]
+  name = "Datenschutz"
+  URL = "datenschutz" ###tbd
+  weight = 1
+
+  [[menu.footer]]
+  name = "Impressum"
+  URL = "impressum" ###tbd
+  weight = 2
+
+  [[menu.footer]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 3
+  
+  ##[[menu.footer]]
+  ##name = "Cookie-Einstellungen"
+  ##URL = "blog" ###tbd
+  ##weight = 4
+  
+  ##[[menu.footer]]
+  ##name = "Impressum"
+  ##URL = "pricing"
+  ##weight = 4
+
+
+[params]
+logo = "images/logoBlack.png"
+home = "START"
+# Contact Information
+phone = "+43 650 3536751" ### Marlies Mürzl
+email = "info@vinzi-wuestenrose.at"
+location = "A-8844 Schöder"
+copyright = "&copy; 2021 Vinzenzgemeinschaft Murau"#2019 a theme by [themefisher](https://themefisher.com/)"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "51.5223477"
+mapLongitude = "-0.1622023"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  # Navigation top header
+  [params.topHeader]
+  enable = true
+
+  # Navigation button
+  [params.navBtn]
+  enable = true
+  label = "SPENDEN"
+  link = "donation"
+
+  # Subscription
+  ##[params.subscription]
+  ##title = "Newsletter"
+  ##content = "Newsletter abonnieren und informiert bleiben"
+  
+
+  #################### social icon ######################################
+  [[params.social]]
+  name = "Facebook"
+  icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+  link = "#"
+  
+  ##[[params.social]]
+  ##name = "Twitter"
+  ##icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+  ##link = "#"
+  
+  ##[[params.social]]
+  ##name = "Vimeo"
+  ##icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
+  ##link = "#"
+  
+  ##[[params.social]]
+  ##name = "Github"
+  ##icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+  ##link = "#"
+  
+############################# post share links ######################
+[[params.postShare]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+name = "facebook"
+link = "https://www.facebook.com/profile.php?id=100063577989432"
+
+[[params.postShare]]
+icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+name = "twitter"
+link = "#"
+
+[[params.postShare]]
+icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+name = "linkedin"
+link = "#"
+
+[[params.postShare]]
+icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
+name = "pinterest"
+link = "#"
+
+##[[params.postShare]]
+##icon = "ti-whatsapp" # themify icon pack https://themify.me/themify-icons
+##name = "whatsapp"
+##link = "#"

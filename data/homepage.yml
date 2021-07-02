@@ -1,0 +1,149 @@
+################################ Banner ##############################
+banner:
+  enable : true
+  subtitle : "Helfen hilft"
+  title : "Wüstenrose"
+  content : "Vinzenzgemeinschaft Bezirk Murau"
+  button:
+    enable : true
+    label : "SPENDEN"
+    link : "donation"
+
+############################# Intro ##################################
+intro:
+  enable: true
+  subtitle : "Unsere Mission"
+  title : "Hilfe für Menschen in Not"
+  content : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
+  Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
+  Unser Vorbild ist der Hl. Vinzenz von Paul.
+  Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten 
+  Jesus Christus vor uns steht und um Hilfe bittet."
+  introItem:
+    # intro item loop
+    - title : "Lebensmittel-Verteiler"
+      image : "images/about/image-1.jpg"
+      content : "Nimm was du brauchst - gib was du hast..."
+      
+    # intro item loop
+    - title : "Rucksackprojekt"
+      image : "images/about/image-2.jpg"
+      content : "Kinder und Jugendliche aus Österreich packen für Kinder 
+      in Afrika eine Schultasche und ermögichen ihnen damit den Schulbesuch."
+      
+    # intro item loop
+    - title : "KOSTNIX-Laden"
+      image : "images/about/image-3.jpg"
+      content : "Nach dem Motto: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen
+       ein zweites Leben und haben im Pfarrhof St. Peter / Kbg. einen „KostNixLaden“ eröffnet."
+      
+    # intro item loop
+    - title : "Help The children"
+      image : "images/about/image-1.jpg"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+
+################################# Video ###############################
+video:
+  enable : false
+  title : "We Make a Difference <br>in their Life"
+  videoThumb : "images/bg/bg-3.jpg"
+  video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  
+################################# funfacts ###############################
+funfacts:
+  enable : true
+  funItem:
+    # funfacts item loop
+    - title : "Aktiv seit"
+      count: "2020"
+      
+    # funfacts item loop
+    - title : "Ehrenamtliche"
+      count: "23"
+      
+    # funfacts item loop
+    - title : "Aktionen"
+      count: "14"
+      
+    # funfacts item loop
+    - title : "Laufende Projekte"
+      count: "54"
+
+############################ gallery ###################################
+gallery:
+  enable : true
+  subtitle : "Fotos"
+  title : "Wir kümmern uns persönlich um die Anliegen der Menschen."
+  galleryItems:
+    - image : "images/gallery/1.jpg"
+    - image : "images/gallery/2.jpg"
+    - image : "images/gallery/3.jpg"
+    - image : "images/gallery/4.jpg"
+    - image : "images/gallery/5.jpg"
+    - image : "images/gallery/6.jpg"
+    - image : "images/gallery/7.jpg"
+    - image : "images/gallery/8.jpg"
+    - image : "images/gallery/9.jpg"
+
+########################## latest causes ################################
+causes:
+  enable : true
+  subtitle : "Aktuell"
+  title : "Aktionen und Projekte"
+  content : "Für ausführliche Informationen auf den Artikel klicken."
+  # causes item comes from "content/event" folder
+
+######################## call to action ###################################
+cta:
+  enable : true
+  title : "Helfen hilft! "
+  button:
+    enable : true
+    label : "SPENDEN"
+    link : "donation"
+
+############################# Latest Blog ###############################
+blog:
+  enable : true
+  subtitle : ""
+  title : ""
+  content : ""
+  # blog item comes from "content/blog" folder
+
+################################# Volunteer ##############################
+volunteer:
+  enable : false
+  image : "images/bg/image-5.jpg"
+  title : "We can’t help everyone, but everyone can help someone"
+  content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
+            ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+  partners:
+    enable : true
+    title : "Trusted worldwide partner"
+    partner:
+      # partner loop
+      - logo : "images/clients/client1.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client2.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client4.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client5.png"
+        link : "#"
+        
+      # partner loop
+      - logo : "images/clients/client6.png"
+        link : "#"
+  
+  # form
+  form:
+    subtitle : "Join With us"
+    title : "Become A Volunteer"
+    formAction : "#" # form works with formspree.io
+    

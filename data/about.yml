@@ -1,0 +1,129 @@
+########################### about ###############################
+about:
+  enable : true
+  image : "images/about/img-3.jpg"
+  title : "Wissenswertes über die Vinzenzgemeinschaft Bezirk Murau"
+  leadContent : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
+  Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
+  Unser Vorbild ist der Hl. Vinzenz von Paul.
+  Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten Jesus Christus vor uns steht und um Hilfe bittet."
+  content : "Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen um
+Nachhaltigkeit zu fördern und Ressourcen zu schonen. Denn JETZT ist die Zeit für die Veränderung unseres Lebensstils:
+„Nicht alles neu kaufen – nutzen was da ist – weiterverwenden so lange es geht - sparsamer leben und fragen wie viel brauche ich eigentlich?“
+Nach dem Motto: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen ein zweites Leben und haben im Pfarrhof St. Peter / Kbg. einen „KostNixLaden“ eröffnet."
+
+
+############################# partners ##########################
+partners:
+  enable : true
+  title : "Kooperationen"
+  content : "Mary`s Meals"
+  partnersLogo:
+    # partner logo loop
+    ##- logo : "images/clients/client1.png"
+    ##  link : "#"
+      
+    # partner logo loop
+    ##- logo : "images/clients/client2.png"
+    ##  link : "#"
+      
+    # partner logo loop
+    ##- logo : "images/clients/client5.png"
+    ##  link : "#"
+      
+    # partner logo loop
+    ##- logo : "images/clients/client4.png"
+    ##  link : "#"
+
+
+########################## history ##############################
+history:
+  enable : true
+  historyItem:
+    # history item loop
+    - title : "Gegründet 2020"
+      icon : "ti-home"
+      subtitle : "Wir helfen mit Freude!!"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      
+    # history item loop
+    - title : "Vinzenz von Paul"
+      icon : "ti-agenda"
+      subtitle : "Patron der Vinzenzgemeinschaften"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      
+    # history item loop
+    - title : "Frederic Ozanam"
+      icon : "ti-hand-open"
+      subtitle : "Gründer der Vinzenzgemeinschaften"
+      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+
+############################### Team ##############################
+team:
+  enable : true
+  subtitle : "Verein"
+  title : "Vinzenzgemeinschaft Murau - Wüstenrose"
+  button:
+    enable : true
+    label : "EHRENAMT"
+    link : "volunteer"
+  teamMember:
+    # team member loop
+    - name : "Marie-Luise Mürzl"
+      designation : "Obfrau"
+      image : "images/team/volunteer-img1.1.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+        ##- name : "twitter"
+        ##  icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+          ##link : "#"
+          
+        ##- name : "instagram"
+          ##icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+          ##link : "#"
+          
+        ##- name : "linkedin"
+          ##icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+          ##link : "#"
+          
+    # team member loop
+    - name : "Roswitha Bacher"
+      designation : "Obfrau Stv."
+      image : "images/team/volunteer-img1.2.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : "Astrid Prieling"
+      designation : "Kassier"
+      image : "images/team/volunteer-img1.3.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+          
+          
+    # team member loop
+    - name : "John Doe"
+      designation : "Mitglied"
+      image : "images/team/volunteer-img1.1.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+
+################### call to action ###########################
+cta:
+  enable : true
+  # cta content comes from homepage.yml
+
+############################## Gallery ######################
+gallery:
+  enable : true
+  # gallery items comes from homepage.yml
