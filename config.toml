@@ -118,5 +118,5 @@ link = "#"
 name = "pinterest"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/profile.php?id=100063577989432"
 name = "Facebook"
