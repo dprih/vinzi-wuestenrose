@@ -1,0 +1,81 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: document
+  path: layouts/contact/list.html
+  label: Contact2
+- type: directory
+  path: content/causes
+  label: Causes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: Contact
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/datenschutz
+  label: Datenschutz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/donation
+  label: Donation
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/event
+  label: Event
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/impressum
+  label: Impressum
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/search
+  label: Search
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/volunteer
+  label: Volunteer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+  new_doc_ext: ".html"
+upload_dir: static
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.84.1
+  preview_output_directory: public
+  install_dependencies_command: nom install
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.81.0
