@@ -156,7 +156,7 @@ googleAnalitycsID = "Your ID"
   [[params.social]]
   name = "Facebook"
   icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.facebook.com/profile.php?id=100063577989432"
   
   ##[[params.social]]
   ##name = "Twitter"
