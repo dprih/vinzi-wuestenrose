@@ -62,6 +62,7 @@ sections:
   label: Pages
   create: all
   match: "*"
+  new_doc_ext: ".html"
 upload_dir: static
 public_path: "/uploads"
 front_matter_path: ''
