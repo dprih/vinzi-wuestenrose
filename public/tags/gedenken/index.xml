@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gedenken on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
-    <link>http://vinzi-wuestenrose.at/tags/gedenken/</link>
+    <link>https://vinzi-wuestenrose.netlify.app/tags/gedenken/</link>
     <description>Recent content in Gedenken on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 25 Mar 2021 11:28:32 +0600</lastBuildDate><atom:link href="http://vinzi-wuestenrose.at/tags/gedenken/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 11:28:32 +0600</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/tags/gedenken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wir trauern um Ingrid</title>
-      <link>http://vinzi-wuestenrose.at/blog/trauerumingrid/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/</link>
       <pubDate>Thu, 25 Mar 2021 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/blog/trauerumingrid/</guid>
+      <guid>https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/</guid>
       <description>Wir trauern um Ingrid
 Nachruf </description>
     </item>

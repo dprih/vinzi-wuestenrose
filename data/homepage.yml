@@ -84,12 +84,12 @@ gallery:
     - image : "images/gallery/7.jpg"
     - image : "images/gallery/8.jpg"
     - image : "images/gallery/9.jpg"
-
+    
 ########################## latest causes ################################
 causes:
   enable : true
-  subtitle : "Aktuell"
-  title : "Aktionen und Projekte"
+  subtitle : "Überblick"
+  title : "Projekte"
   content : "Für ausführliche Informationen auf den Artikel klicken."
   # causes item comes from "content/event" folder
 
@@ -146,4 +146,3 @@ volunteer:
     subtitle : "Join With us"
     title : "Become A Volunteer"
     formAction : "#" # form works with formspree.io
-    

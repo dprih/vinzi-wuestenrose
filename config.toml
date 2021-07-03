@@ -3,7 +3,7 @@ baseURL = "https://vinzi-wuestenrose.netlify.app"
 languageCode = "de-de"
 title = "Vinzenzgemeinschaft Bezirk Murau - Wuestenrose"
 theme = "wishfund-hugo"
-summaryLength = "10"
+summaryLength = "5"
 paginate = 6
 
 [outputs]

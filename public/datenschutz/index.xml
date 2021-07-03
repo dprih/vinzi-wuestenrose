@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DATENSCHUTZ on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
-    <link>http://vinzi-wuestenrose.at/datenschutz/</link>
+    <link>https://vinzi-wuestenrose.netlify.app/datenschutz/</link>
     <description>Recent content in DATENSCHUTZ on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 02 Jul 2021 11:28:32 +0600</lastBuildDate><atom:link href="http://vinzi-wuestenrose.at/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 11:28:32 +0600</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/datenschutz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://vinzi-wuestenrose.at/datenschutz/bsp_txt/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/datenschutz/bsp_txt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/datenschutz/bsp_txt/</guid>
+      <guid>https://vinzi-wuestenrose.netlify.app/datenschutz/bsp_txt/</guid>
       <description>Impressum Vinzenzgemeinschaft Bezirk Murau Baierdorf 115 08844 Schöder Tel: +43 650 3536751 info@vinzi-wuestenrose.</description>
     </item>
     

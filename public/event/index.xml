@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Termine und Veranstaltungen on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
-    <link>http://vinzi-wuestenrose.at/event/</link>
+    <link>https://vinzi-wuestenrose.netlify.app/event/</link>
     <description>Recent content in Termine und Veranstaltungen on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate><atom:link href="http://vinzi-wuestenrose.at/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generalversammlung</title>
-      <link>http://vinzi-wuestenrose.at/event/generalversammlung_20210627/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/generalversammlung_20210627/</link>
       <pubDate>Wed, 30 Jun 2021 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/generalversammlung_20210627/</guid>
-      <description>Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung. Wir freuen uns auf euer Kommen!</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/generalversammlung_20210627/</guid>
+      <description>Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung.</description>
     </item>
     
     <item>
       <title>Fundarising for proper education</title>
-      <link>http://vinzi-wuestenrose.at/event/event-2/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/event-2/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/event-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/event-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Fundarising for proper education</title>
-      <link>http://vinzi-wuestenrose.at/event/event-5/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/event-5/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/event-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/event-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Stage performance for poor child health</title>
-      <link>http://vinzi-wuestenrose.at/event/event-3/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/event-3/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/event-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/event-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Stage performance for poor child health</title>
-      <link>http://vinzi-wuestenrose.at/event/event-6/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/event-6/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/event-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/event-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>T-shirt Fundarising for Shelter child</title>
-      <link>http://vinzi-wuestenrose.at/event/event-4/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/event/event-4/</link>
       <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/event/event-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/event/event-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>

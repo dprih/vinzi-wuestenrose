@@ -14,5 +14,5 @@ type: "post"
 ---
 
 Wir trauern um Ingrid
-
+<!--more-->
 # Nachruf

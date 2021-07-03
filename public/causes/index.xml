@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projekte &amp; Aktionen on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
-    <link>http://vinzi-wuestenrose.at/causes/</link>
+    <link>https://vinzi-wuestenrose.netlify.app/causes/</link>
     <description>Recent content in Projekte &amp; Aktionen on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate><atom:link href="http://vinzi-wuestenrose.at/causes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2019 11:28:32 +0600</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/causes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kostnix-Laden</title>
-      <link>http://vinzi-wuestenrose.at/causes/kostnixladen/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/causes/kostnixladen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/causes/kostnixladen/</guid>
+      <guid>https://vinzi-wuestenrose.netlify.app/causes/kostnixladen/</guid>
       <description>Eine Initiative der Vinzenzgemeinschaft Murau Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>Essen schmeißt man nicht weg...</title>
-      <link>http://vinzi-wuestenrose.at/causes/essen/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/causes/essen/</link>
       <pubDate>Fri, 25 Sep 2020 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/causes/essen/</guid>
+      <guid>https://vinzi-wuestenrose.netlify.app/causes/essen/</guid>
       <description>&amp;hellip;das haben viele von uns von Großeltern und Eltern gelernt und tun ihr Bestes – aber trotzdem landen Tonnen von Lebensmitteln aus Privathaushalten im Müll!</description>
     </item>
     
     <item>
       <title>Hilfe für die Slowakei</title>
-      <link>http://vinzi-wuestenrose.at/causes/slowakei/</link>
+      <link>https://vinzi-wuestenrose.netlify.app/causes/slowakei/</link>
       <pubDate>Fri, 25 Sep 2020 11:28:32 +0600</pubDate>
       
-      <guid>http://vinzi-wuestenrose.at/causes/slowakei/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo nisi adipisci, harum unde sit, magni fuga alias incidunt neque eius reiciendis perferendis suscipit commodi dolorem ipsa veritatis accusamus.</description>
+      <guid>https://vinzi-wuestenrose.netlify.app/causes/slowakei/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
   </channel>
