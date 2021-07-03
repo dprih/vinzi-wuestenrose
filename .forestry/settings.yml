@@ -70,7 +70,7 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.81.0
+  - HUGO_VERSION=0.84.1
   preview_output_directory: public
   install_dependencies_command: nom install
   preview_docker_image: forestryio/hugo:latest
