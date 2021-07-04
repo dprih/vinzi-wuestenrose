@@ -6,7 +6,7 @@ backend:
 publish_mode: editorial_workflow
 
 # Media and Public Folders
-media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: "static/images" # Media files will be stored in the repo under images/uploads
 public_folder: "images" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
@@ -19,10 +19,12 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
-      - {label: "Entwurf", name: "draft", widget: "boolean"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
       #- {label: "BG Image", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
-      - {label: "Gewichtung", name: "weight", widget: "number"}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Text", name: "body", widget: "markdown"}
 
 
