@@ -27,7 +27,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
   
-      - name: "causes" # Used in routes, e.g., /admin/collections/blog
+  - name: "causes" # Used in routes, e.g., /admin/collections/blog
     label: "Projekte" # Used in the UI
     folder: "content/causese" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
