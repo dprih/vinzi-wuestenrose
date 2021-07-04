@@ -26,7 +26,8 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
-  - name: "causes" # Used in routes, e.g., /admin/collections/blog
+  
+      - name: "causes" # Used in routes, e.g., /admin/collections/blog
     label: "Projekte" # Used in the UI
     folder: "content/causese" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -38,10 +39,28 @@ collections:
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
       #- {label: "BG Image", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
-      - {label: "Ziel", name: "goal", widget: "number", required: true}
-      - {label: "Gesammelt", name: "raised", widget: "number", required: true}
+      - {label: "Ziel", name: "goal", widget: "string", required: true}
+      - {label: "Gesammelt", name: "raised", widget: "string", required: true}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
 
+  - name: "event" # Used in routes, e.g., /admin/collections/blog
+    label: "Termine" # Used in the UI
+    folder: "content/event" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
+      #- {label: "BG Image", name: "bgImage", widget: "image", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: false}
+      - {label: "Termin", name: "eventDate", widget: "datetime", required: true}
+      - {label: "Ort", name: "location", widget: "string", required: true}
+      - {label: "Organisator", name: "organizer", widget: "string", required: false}
+      - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
+      - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
+      - {label: "Text", name: "body", widget: "markdown"}

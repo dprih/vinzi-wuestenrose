@@ -177,7 +177,7 @@ googleAnalitycsID = "Your ID"
 [[params.postShare]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
 name = "facebook"
-link = "https://www.facebook.com/profile.php?id=100063577989432"
+link = "#"
 
 [[params.postShare]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
