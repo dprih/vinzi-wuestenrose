@@ -1,6 +1,6 @@
 ---
 title: CMS Test
-date: 2019-09-25T11:28:32+06:00
+date: 2021-07-04T14:07:14.264Z
 draft: false
 description: Aktuelles
 bgImage: images/bg/bg-3.jpg
