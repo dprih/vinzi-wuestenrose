@@ -1,10 +1,11 @@
 ---
 title: Neuigkeiten vom Juni
 date: 2021-06-29T22:00:00.000Z
-bgImage: uploads/about/image-2.jpg
-image: uploads/Tropfen.jpg
+draft: "false"
+bgImage: images/uploads/pexels-pixabay-247477.jpg
 tags: []
 type: ""
+image: images/uploads/logo-vinzenzgemeinschaft.jpg
 categories: []
 description: Was im Juni so geschah...
 ---
