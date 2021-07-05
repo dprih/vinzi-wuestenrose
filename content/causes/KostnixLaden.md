@@ -4,7 +4,7 @@ date: 2020-07-2T11:28:32+06:00
 draft: false
 description : "Kostnix-Laden"
 bgImage: "images/bg/bg-3.jpg"
-image: "images/logoKostNixLaden.jpg"
+image: "images/resized/kostnix.jpeg"
 goal: ""
 raised: ""
 type: "causes"

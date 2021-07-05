@@ -4,7 +4,7 @@ date: 2021-03-25T11:28:32+06:00
 draft: false
 description : "Ingrid"
 bgImage: "images/bg/bg-3.jpg"
-image: "images/Ingrid_RIP.jpg"
+image: "images/resized/ingrid.jpeg"
 categories: 
   - "Verein"
 tags:

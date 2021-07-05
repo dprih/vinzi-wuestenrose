@@ -26,6 +26,10 @@ collections:
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
       - {label: "Text", name: "body", widget: "markdown"}
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: ["post", "x", "y"]
   
   - name: "causes" # Used in routes, e.g., /admin/collections/blog
     label: "Projekte" # Used in the UI
