@@ -18,6 +18,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Autor", name: "author", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
       - {label: "BG Image", name: "bgImage", widget: "image", required: false}
@@ -25,12 +26,12 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
-      - {label: "Text", name: "body", widget: "markdown"}
       - label: "Type"
         name: "type"
         widget: "select"
-        options: ["post", "x", "y"]
-  
+        options: ["post", "x"]
+      - {label: "Text", name: "body", widget: "markdown"}
+
   - name: "causes" # Used in routes, e.g., /admin/collections/blog
     label: "Projekte" # Used in the UI
     folder: "content/causes" # The path to the folder where the documents are stored
@@ -48,6 +49,10 @@ collections:
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: ["causes", "x"]
       - {label: "Text", name: "body", widget: "markdown"}
 
   - name: "event" # Used in routes, e.g., /admin/collections/blog
@@ -67,4 +72,8 @@ collections:
       - {label: "Organisator", name: "organizer", widget: "string", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
       - {label: "Tags", name: "tags", widget: "list", field: {name: tag, label: Tag, widget: "string"}, required: false}
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: ["event", "x"]
       - {label: "Text", name: "body", widget: "markdown"}

@@ -3,7 +3,7 @@ baseURL = "https://vinzi-wuestenrose.netlify.app"
 languageCode = "de-de"
 title = "Vinzenzgemeinschaft Bezirk Murau - Wuestenrose"
 theme = "wishfund-hugo"
-summaryLength = "5"
+summaryLength = "20"
 paginate = 6
 
 [outputs]
@@ -192,12 +192,23 @@ name = "linkedin"
 link = "https://www.linkedin.com/shareArticle?mini=true&amp;url=https://vinzi-wuestenrose.netlify.app&amp;source=https://vinzi-wuestenrose.netlify.app&amp;title={{ $title }}&amp;summary={{ $title }}" 
 #link = "https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;source={{ $url }}&amp;title={{ $title }}&amp;summary={{ $title }}" 
 
-[[params.postShare]]
-icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
-name = "pinterest"
-link = "#"
+#[[params.postShare]]
+#icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
+#name = "pinterest"
+#link = "#"
 
-##[[params.postShare]]
-##icon = "ti-whatsapp" # themify icon pack https://themify.me/themify-icons
-##name = "whatsapp"
-##link = "#"
+[[params.postShare]]
+icon = "ti-email" # themify icon pack https://themify.me/themify-icons
+name = "email"
+link = "mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}"
+
+[[params.postShare]]
+icon = "ti-mobile" # themify icon pack https://themify.me/themify-icons
+name = "whatsapp"
+link = "whatsapp://send?text={{ $body }}"
+
+# pictures
+## bg: 1920x760
+## blog: 400x300
+## member: 600x600
+## gallery: 150x150
