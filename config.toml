@@ -177,17 +177,20 @@ googleAnalitycsID = "Your ID"
 [[params.postShare]]
 icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
 name = "facebook"
-link = "https://www.facebook.com/sharer.php?u={{ $url }}"
+link = "https://www.facebook.com/sharer.php?display=page&u=https://vinzi-wuestenrose.netlify.app"
+#link = "https://www.facebook.com/sharer.php?u={{ $url }}"
 
 [[params.postShare]]
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
 name = "twitter"
-link = "https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url={{ .Permalink }}&amp;text={{ .Title }}"
+link = "https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url=https://vinzi-wuestenrose.netlify.app&amp;text={{ .Title }}"
+#link = "https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url={{ .Permalink }}&amp;text={{ .Title }}"
 
 [[params.postShare]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 name = "linkedin"
-link = "https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;source={{ $url }}&amp;title={{ $title }}&amp;summary={{ $title }}" 
+link = "https://www.linkedin.com/shareArticle?mini=true&amp;url=https://vinzi-wuestenrose.netlify.app&amp;source=https://vinzi-wuestenrose.netlify.app&amp;title={{ $title }}&amp;summary={{ $title }}" 
+#link = "https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;source={{ $url }}&amp;title={{ $title }}&amp;summary={{ $title }}" 
 
 [[params.postShare]]
 icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons

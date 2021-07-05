@@ -2,7 +2,7 @@
 title: Neuigkeiten vom Juni
 date: 2021-06-29T22:00:00.000Z
 draft: "false"
-bgImage: images/uploads/pexels-pixabay-247477.jpg
+bgImage: "images/bg/bg-3.jpg"
 tags: []
 type: ""
 image: images/uploads/logo-vinzenzgemeinschaft.jpg
