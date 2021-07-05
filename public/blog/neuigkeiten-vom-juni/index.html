@@ -28,7 +28,11 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
-
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+  
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -131,7 +135,7 @@
 </header>
 
 
-<section class="page-title bg-1" style="background-image: url('https://vinzi-wuestenrose.netlify.app/uploads/about/image-2.jpg');">
+<section class="page-title bg-1" style="background-image: url('https://vinzi-wuestenrose.netlify.app/images/uploads/pexels-pixabay-247477.jpg');">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -148,7 +152,7 @@
     <div class="row">
       <div class="col-lg-8">
         <article class="single-blog-item" data-file="https://vinzi-wuestenrose.netlify.app/blog/neuigkeiten-vom-juni/" data-target="article">
-          <img src="https://vinzi-wuestenrose.netlify.app/uploads/Tropfen.jpg" alt="Neuigkeiten vom Juni" class="img-fluid w-100">
+          <img src="https://vinzi-wuestenrose.netlify.app/images/uploads/logo-vinzenzgemeinschaft.jpg" alt="Neuigkeiten vom Juni" class="img-fluid w-100">
 
           <div class="blog-item-content mt-3">
             <h2 class="mt-3">Neuigkeiten vom Juni</h2>
@@ -158,8 +162,19 @@
               <span class="text-black mr-3"><i class="ti-timer mr-1"></i> <span class="eta"></span> Lesen</span>
             </div>
             <div class="content">
-              <p>Überschrift</p>
+              <p><strong>Überschrift</strong></p>
 <p>Weiterer Text. Und noch ein bisschen mehr.</p>
+<p>Im Juni gab es die folgenden <em>Highlights</em>:</p>
+<ul>
+<li>eins
+<ul>
+<li>eins+</li>
+</ul>
+</li>
+<li>zwei</li>
+<li>drei</li>
+</ul>
+<p>Vorbei :-)</p>
 
             </div>
             
@@ -167,11 +182,11 @@
               <ul class="list-inline">
                 <li class="list-inline-item"> <strong>Teilen:</strong> </li>
                 
-                <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100063577989432" target="_blank"><i class="ti-facebook mr-2"></i>facebook</a></li>
+                <li class="list-inline-item"><a href="https://www.facebook.com/sharer.php?u=%7b%7b%20$url%20%7d%7d" target="_blank"><i class="ti-facebook mr-2"></i>facebook</a></li>
                 
-                <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-twitter-alt mr-2"></i>twitter</a></li>
+                <li class="list-inline-item"><a href="https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;amp;url=%7b%7b%20.Permalink%20%7d%7d&amp;amp;text=%7b%7b%20.Title%20%7d%7d" target="_blank"><i class="ti-twitter-alt mr-2"></i>twitter</a></li>
                 
-                <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-linkedin mr-2"></i>linkedin</a></li>
+                <li class="list-inline-item"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=%7b%7b%20$url%20%7d%7d&amp;amp;source=%7b%7b%20$url%20%7d%7d&amp;amp;title=%7b%7b%20$title%20%7d%7d&amp;amp;summary=%7b%7b%20$title%20%7d%7d" target="_blank"><i class="ti-linkedin mr-2"></i>linkedin</a></li>
                 
                 <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-pinterest mr-2"></i>pinterest</a></li>
                 
@@ -403,5 +418,18 @@
 	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	ga('create', 'Your ID', 'auto');
 	ga('send', 'pageview');
-</script></body>
+</script>
+        <script>
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          </script>
+          
+    </body>
 </html>

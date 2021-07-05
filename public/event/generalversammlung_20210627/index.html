@@ -28,7 +28,11 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
-
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+  
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -180,11 +184,11 @@ Wir freuen uns auf euer Kommen!</p>
             <ul class="list-inline mb-0">
               <li class="list-inline-item"> <strong>Teilen:</strong> </li>
               
-              <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100063577989432" target="_blank"><i class="ti-facebook mr-2"></i>facebook</a></li>
+              <li class="list-inline-item"><a href="https://www.facebook.com/sharer.php?u=%7b%7b%20$url%20%7d%7d" target="_blank"><i class="ti-facebook mr-2"></i>facebook</a></li>
               
-              <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-twitter-alt mr-2"></i>twitter</a></li>
+              <li class="list-inline-item"><a href="https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;amp;url=%7b%7b%20.Permalink%20%7d%7d&amp;amp;text=%7b%7b%20.Title%20%7d%7d" target="_blank"><i class="ti-twitter-alt mr-2"></i>twitter</a></li>
               
-              <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-linkedin mr-2"></i>linkedin</a></li>
+              <li class="list-inline-item"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=%7b%7b%20$url%20%7d%7d&amp;amp;source=%7b%7b%20$url%20%7d%7d&amp;amp;title=%7b%7b%20$title%20%7d%7d&amp;amp;summary=%7b%7b%20$title%20%7d%7d" target="_blank"><i class="ti-linkedin mr-2"></i>linkedin</a></li>
               
               <li class="list-inline-item"><a href="#" target="_blank"><i class="ti-pinterest mr-2"></i>pinterest</a></li>
               
@@ -363,5 +367,18 @@ Wir freuen uns auf euer Kommen!</p>
 	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	ga('create', 'Your ID', 'auto');
 	ga('send', 'pageview');
-</script></body>
+</script>
+        <script>
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          </script>
+          
+    </body>
 </html>

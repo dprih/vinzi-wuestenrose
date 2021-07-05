@@ -28,7 +28,11 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
-
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+  
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -639,5 +643,18 @@
 	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	ga('create', 'Your ID', 'auto');
 	ga('send', 'pageview');
-</script></body>
+</script>
+        <script>
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          </script>
+          
+    </body>
 </html>

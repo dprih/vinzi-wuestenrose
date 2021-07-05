@@ -28,7 +28,11 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://vinzi-wuestenrose.netlify.app/images/favicon.png " type="image/x-icon">
-
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+  
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -156,8 +160,7 @@
               <div class="blog-item-content-content mt-3">
                 <span class="text-sm text-color text-uppercase font-weight-bold">March 25, 2021</span>
                 <h3 class="mb-3"><a href="https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/">Wir trauern um Ingrid</a></h3>
-                <p class="mb-4">Wir trauern um Ingrid
-Nachruf </p>
+                <p class="mb-4"><p>Wir trauern um Ingrid</p></p>
                 <a href="https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/" class="btn btn-small btn-main rounded">Mehr erfahren</a>
               </div>
             </div>
@@ -392,5 +395,18 @@ Nachruf </p>
 	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	ga('create', 'Your ID', 'auto');
 	ga('send', 'pageview');
-</script></body>
+</script>
+        <script>
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
+          </script>
+          
+    </body>
 </html>
