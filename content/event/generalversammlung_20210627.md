@@ -13,7 +13,7 @@ description: Generalversammlung Juni 2021
 
 Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung.
 Wir freuen uns auf euer Kommen!
-
+<!--more-->
 ## Tagesordnung
 1. Begrüßung
 2. Gedenken an verstorbene Mitglieder
