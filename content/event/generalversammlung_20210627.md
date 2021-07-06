@@ -1,14 +1,14 @@
 ---
-title: "Generalversammlung"
+title: Generalversammlung
 date: 2021-06-30T11:28:32+06:00
 draft: false
-description : "Generalversammlung Juni 2021"
-bgImage: "images/bg/bg-3.jpg"
-image: "static/images/resized/gvagenda.jpeg"
-eventDate: "27 Juni 2021, 9:30 Uhr"
-location: "Gasthof Hirschenwirt, Schöder"
-organizer: "Vinzenzgemeinschaft Bezirk Murau"
-type: "event"
+bgImage: images/bg/bg-3.jpg
+image: images/einladungGV202106.jpg
+eventDate: 2021-06-26T22:00:00.000Z
+location: Gasthof Hirschenwirt, Schöder
+organizer: Vinzenzgemeinschaft Bezirk Murau
+type: event
+description: Generalversammlung Juni 2021
 ---
 
 Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung.
