@@ -1,7 +1,7 @@
 ########################### about ###############################
 about:
   enable : true
-  image : "images/about/img-3.jpg"
+  image : "images/uploads/Promo-Instagram-Instagram ad square.jpeg"
   title : "Wissenswertes über die Vinzenzgemeinschaft Bezirk Murau"
   leadContent : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
   Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
@@ -71,7 +71,7 @@ team:
     # team member loop
     - name : "Marie-Luise Mürzl"
       designation : "Obfrau"
-      image : "images/team/volunteer-img1.1.jpg"
+      image : "images/uploads/Promo-Facebook-Facebook feed-6.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -92,7 +92,7 @@ team:
     # team member loop
     - name : "Roswitha Bacher"
       designation : "Obfrau Stv."
-      image : "images/team/volunteer-img1.2.jpg"
+      image : "images/uploads/Promo-Facebook-Facebook feed-4.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -101,23 +101,38 @@ team:
     # team member loop
     - name : "Astrid Prieling"
       designation : "Kassierin"
-      image : "images/team/volunteer-img1.3.jpg"
+      image : "images/uploads/Promo-Facebook-Facebook feed.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"
-          
-          
+
     # team member loop
     - name : "John Doe"
       designation : "Mitglied"
-      image : "images/team/volunteer-img1.1.jpg"
+      image : "images/uploads/Promo-Facebook-Facebook feed-3.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"          
+          
+    # team member loop
+    - name : "Carmen Mürzl"
+      designation : "Mitglied"
+      image : "images/uploads/Promo-Facebook-Facebook feed-5.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"
 
-
+    # team member loop
+    - name : "Bernhard Mürzl"
+      designation : "Mitglied"
+      image : "images/uploads/Promo-Facebook-Facebook feed-2.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
 ################### call to action ###########################
 cta:
   enable : true

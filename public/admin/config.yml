@@ -67,7 +67,7 @@ collections:
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
       - {label: "BG Image", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
-      - {label: "Termin", name: "eventDate", widget: "datetime", required: true}
+      - {label: "Termin", name: "eventDate", widget: "string", required: true}
       - {label: "Ort", name: "location", widget: "string", required: true}
       - {label: "Organisator", name: "organizer", widget: "string", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
