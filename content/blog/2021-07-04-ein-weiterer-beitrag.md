@@ -1,11 +1,12 @@
 ---
 layout: blog
-title: Ein weiterer Beitrag
-date: 2021-07-04T15:39:07.188Z
+title: Jubiläumswoche Vinzenz von Paul
+author: Marie-Luise Mürzl
+date: 2021-09-27T15:39:07.188Z
 draft: false
-bgImage: "images/bg/bg-3.jpg"
+bgImage: images/grafik-vg.png
 image: images/resized/tropfen.jpeg
 weight: 30
-type: "post"
+type: post
 ---
 Solidarität! Keine Gesellschaft sollte Elend akzeptieren..!
