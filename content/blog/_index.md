@@ -1,7 +1,20 @@
 ---
 title: Aktuelles
+author: Astrid Prieling
 date: 2021-07-04T14:07:14.264Z
-draft: false
+draft: true
+bgImage: images/bg/bg-3.jpg
+image: images/vorstand.jpg
+weight: 20
+type: post
 description: Aktuelles
-bgImage: images/uploads/pexels-pixabay-70577.jpg
 ---
+Was sich alles getan hat schildern wir euch hier!
+
+**Bereit?**
+
+1. **eins**
+2. **zwei**
+3. **drei**
+
+## ***vorbei :-)***
