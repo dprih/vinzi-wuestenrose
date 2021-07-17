@@ -7,7 +7,7 @@ image: images/kuehlschrank.jpg
 goal: ''
 raised: ''
 weight: "2"
-
+draft: false
 ---
 ...das haben viele von uns von Großeltern und Eltern gelernt und tun ihr Bestes – aber trotzdem landen Tonnen von Lebensmitteln aus Privathaushalten im Müll! (Quelle: foodsharing) Deshalb unterstützen wir das Umweltprojekt „Lebensmittelrettung“ mit dem Ziel noch genießbare Lebensmittel vor dem Müll zu bewahren.
 Vor unserem KOSTNIX-Laden im Pfarrhof St. Peter stehen ab sofort zwei Kühlschränke als Lebensmittelverteiler.

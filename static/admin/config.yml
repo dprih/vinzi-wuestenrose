@@ -16,12 +16,12 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      #- {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Titel", name: "title", widget: "string", required: true}
       #- {label: "Autor", name: "author", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
-      - {label: "BG Image", name: "bgImage", widget: "image", required: false}
+      - {label: "Banner Bild", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Categories", name: "categories", widget: "list", field: {name: categories, label: Categories, widget: "string"}, required: false}
@@ -42,7 +42,7 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
-      - {label: "BG Image", name: "bgImage", widget: "image", required: false}
+      - {label: "Banner Bild", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Ziel", name: "goal", widget: "string", required: true}
       - {label: "Gesammelt", name: "raised", widget: "string", required: true}
@@ -65,7 +65,7 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Entwurf", name: "draft", widget: "boolean", required: false}
-      - {label: "BG Image", name: "bgImage", widget: "image", required: false}
+      - {label: "Banner Bild", name: "bgImage", widget: "image", required: false}
       - {label: "Bild", name: "image", widget: "image", required: false}
       - {label: "Termin", name: "eventDate", widget: "string", required: true}
       - {label: "Ort", name: "location", widget: "string", required: true}
