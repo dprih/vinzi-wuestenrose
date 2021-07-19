@@ -1,5 +1,5 @@
 ---
-title: Jubiläumswoche Vinzenz von Paul der VG Bezirk Murau.Wüstenrose von 25. bis 30. September 2021
+title: "Jubiläumswoche Vinzenz von Paul der VG Bezirk Murau.Wüstenrose von 25. bis 30. September 2021"
 date: 2021-06-29T22:00:00.000Z
 draft: "false"
 bgImage: "images/bg/bg-3.jpg"
