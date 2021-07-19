@@ -44,14 +44,14 @@ intro:
 
 ################################# Video ###############################
 video:
-  enable : false
-  title : "We Make a Difference <br>in their Life"
-  videoThumb : "images/bg/bg-3.jpg"
-  video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  enable : true
+  title : "Patron der Vinzenzgemeinschaften"
+  videoThumb : "images/bg/vinzenzYTthumb.jpeg"
+  video: "https://www.youtube.com/watch?v=jOSpX9hLCLc&t=4s"
   
 ################################# funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   funItem:
     # funfacts item loop
     - title : "Aktiv seit"
