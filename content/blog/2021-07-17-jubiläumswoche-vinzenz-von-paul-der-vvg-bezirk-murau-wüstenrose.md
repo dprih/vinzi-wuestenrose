@@ -1,6 +1,6 @@
 ---
 draft: false
-author: Astrid Prieling
+#author: Astrid Prieling
 title: Jubiläumswoche Vinzenz von Paul der VG Bezirk Murau.Wüstenrose von 25.
   bis 30. September 2021
 date: 2021-09-27T07:44:29.270Z
