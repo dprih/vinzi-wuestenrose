@@ -47,7 +47,7 @@ video:
   enable : true
   title : "Patron der Vinzenzgemeinschaften"
   videoThumb : "images/bg/vinzenzYTthumb.jpeg"
-  video: "https://www.youtube.com/watch?v=jOSpX9hLCLc&t=4s"
+  video: "https://www.youtube.com/watch?v=jOSpX9hLCLc"
   
 ################################# funfacts ###############################
 funfacts:
