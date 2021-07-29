@@ -1,7 +1,7 @@
 ---
 title: Rucksackprojekt
 date: 2020-07-2T11:28:32+06:00
-draft: true
+draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/uploads/schultasche_marketplace.jpeg"
 goal: Schultaschen sammeln
