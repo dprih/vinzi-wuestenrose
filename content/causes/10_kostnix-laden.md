@@ -13,11 +13,11 @@ tags: []
 type: causes
 description: Kostnix-Laden
 ---
-# Tauschen statt Wegwerfen
+### Tauschen statt Wegwerfen! 
 Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen, um Nachhaltigkeit zu fördern und Ressourcen zu schonen. 
 Durch das Prinzip: TAUSCHEN STATT WEGWERFEN geben wir brauchbaren Dingen ein zweites Leben, und bieten Kleidung uvm. in unserem KOSTNIX-Laden im 
 **Pfarrhof St. Peter / Kbg. zur freien Entnahme** an.
-
+<!--more-->
 #### Öffnungszeiten
 Die Öffnungszeiten sind an die Kanzleistunden der Pfarre bzw. Büchereizeiten gekoppelt: 
 - Dienstag: 10:00 - 12:00, 17:00 - 18:30

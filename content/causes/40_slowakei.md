@@ -8,7 +8,7 @@ image: "images/resized/slowakei.jpeg"
 goal: "€890"
 raised: "€890"
 type: "causes"
-weight: 3
+weight: 50
 ---
 
 
