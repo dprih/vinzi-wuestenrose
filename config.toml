@@ -114,12 +114,12 @@ paginate = 6
 
 
 [params]
-logo = "images/logoBlack.png"
+logo = "images/uploads/VG_Mu_logo.PNG" #"images/logoBlack.png"
 home = "START"
 # Contact Information
 phone = "+43 650 3536751" ### Marlies Mürzl
 email = "info@vinzi-wuestenrose.at"
-location = "A-8844 Schöder"
+location = "Baierdorf 115, A-8844 Schöder"
 copyright = "&copy; 2021 Vinzenzgemeinschaft Murau"#2019 a theme by [themefisher](https://themefisher.com/)"
 # Meta data
 description = "This is meta description"

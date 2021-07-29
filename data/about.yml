@@ -1,7 +1,7 @@
 ########################### about ###############################
 about:
   enable : true
-  image : "images/uploads/Promo-Instagram-Instagram ad square.jpeg"
+  image : "images/uploads/Promo-Instagram-Instagram ad square.jpeg" #Gruppenfoto
   title : "Wissenswertes über die Vinzenzgemeinschaft Bezirk Murau"
   leadContent : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
   Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aktuelles on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
+    <title>Blogs on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
     <link>https://vinzi-wuestenrose.netlify.app/blog/</link>
-    <description>Recent content in Aktuelles on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
+    <description>Recent content in Blogs on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 04 Jul 2021 14:07:14 +0000</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jubiläumswoche Vinzenz von Paul der VG Bezirk Murau.Wüstenrose von 25. bis 30. September 2021</title>
       <link>https://vinzi-wuestenrose.netlify.app/blog/jubileumswoche/</link>
@@ -33,18 +33,6 @@ Da wegen der Corona Maßnahmen die Vinzenzgemeinschaft Bezirk Murau den 5. Jahre
       
       <guid>https://vinzi-wuestenrose.netlify.app/blog/bericht_gv_20210627/</guid>
       <description>&lt;p&gt;Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU nach der Generalversammlung&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vinzi-wuestenrose.netlify.app/blog/neuigkeiten-vom-juni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vinzi-wuestenrose.netlify.app/blog/neuigkeiten-vom-juni/</guid>
-      <description>c Überschrift
-Weiterer Text. Und noch ein bisschen mehr.
-Im Juni gab es die folgenden Highlights:
- eins  eins+   zwei drei  Vorbei :-)</description>
     </item>
     
   </channel>
