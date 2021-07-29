@@ -47,8 +47,8 @@ intro:
     # intro item loop
     - title : "Ehrenamt"
       image : "images/uploads/marketplace4.jpeg"
-      content: "Wir freuen uns über Ihr Engagement! Bei den WIR-Treffen bekommen Sie die Möglichkeit eigene Talente, Interessen und Fähigkeiten einzubringen
-      #und andere daran teilhaben zu lassen. Sie können beim Organisieren und Verteilen der Sachspenden helfen, sowie Hilfsangebote und Projekte mitorganisieren. "
+      content: "Wir freuen uns über Ihr Engagement! Bei den WIR-Treffen bekommen Sie die Möglichkeit eigene Talente, Interessen und Fähigkeiten einzubringen 
+      und andere daran teilhaben zu lassen. Sie können beim Organisieren und Verteilen der Sachspenden helfen, sowie Hilfsangebote und Projekte mitorganisieren. "
 
 ################################# Video ###############################
 video:

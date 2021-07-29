@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vinzi-wuestenrose.netlify.app/causes/essen/</loc>
-    <lastmod>2020-09-25T11:28:32+06:00</lastmod>
-  </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/causes/slowakei/</loc>
     <lastmod>2020-09-25T11:28:32+06:00</lastmod>
   </url><url>
@@ -67,6 +64,9 @@
   </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/</loc>
     <lastmod>2021-03-25T11:28:32+06:00</lastmod>
+  </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/event/20190930_zukunftsetzen/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/blog/</loc>
     <lastmod>2019-09-25T11:28:32+06:00</lastmod>
