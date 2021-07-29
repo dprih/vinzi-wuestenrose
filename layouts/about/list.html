@@ -17,7 +17,7 @@
         <div class="about-item-content pl-4">
           <h2 class="mb-4 content-title">{{ .title | markdownify }}</h2>
           <p class="lead">{{ .leadContent | markdownify }}</p>
-          <p class="mb-4">{{ .content | markdownify }}</p>
+          <p class="mb-6">{{ .content | markdownify }}</p> <!-- mb-4 -->
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@
 <div class="section pt-0">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8">
+      <div class="col-lg-8"> <!--8-->
         <div class="content text-center">
           <h2 class="content-title mb-4">{{ .title | markdownify }}</h2>
           <p>{{ .content | markdownify }}</p>

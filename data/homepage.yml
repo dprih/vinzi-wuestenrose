@@ -14,33 +14,41 @@ intro:
   enable: true
   subtitle : "Unsere Mission"
   title : "Hilfe für Menschen in Not"
-  content : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
-  Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
-  Unser Vorbild ist der Hl. Vinzenz von Paul.
-  Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten 
-  Jesus Christus vor uns steht und um Hilfe bittet."
+  content : " Als Vinzenzgemeinschaft kümmern wir uns um Mitmenschen in materieller Not, unabhängig ihrer Herkunft oder ihres Religionsbekenntnisses. 
+  Dabei arbeiten wir eng mit den bestehenden sozialen Einrichtungen sowie Pfarren und Caritas zusammen. 
+  Auch in unserem Bezirk gibt es immer wieder Menschen, die in existentielle Not geraten, die nicht genug Geld für Kleidung oder Nahrung haben."
+  # Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
+  # Lebenssituationen befinden. Frei nach dem Motto „Helfen hilft“ unterstützen wir schnell und unbürokratisch.
+  # Unser Vorbild ist der Hl. Vinzenz von Paul. "
+  # Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten 
+  # Jesus Christus vor uns steht und um Hilfe bittet.
   introItem:
     # intro item loop
-    - title : "Lebensmittel-Verteiler"
-      image : "images/about/image-1.jpg"
-      content : "Nimm was du brauchst - gib was du hast..."
+    - title : "Gemeinschaft"
+      image : "images/uploads/marketplace1.jpeg"
+      content : "Zu den „WIR-Treffen“ im Pfarrhof St. Peter/Kbg. am 2. Montag im Monat von 15:00-16:30 Uhr sind alle Menschen der Region herzlich eingeladen.
+      Durch Zusammenkommen, Austausch und Gesprächen wird Gemeinschaft erlebbar und Kontakte entstehen. 
+      Wir bieten eine offene Gruppe mit unverbindlicher Teilnahme – einsteigen ist jederzeit möglich."
       
     # intro item loop
-    - title : "Rucksackprojekt"
-      image : "images/about/image-2.jpg"
-      content : "Kinder und Jugendliche aus Österreich packen für Kinder 
-      in Afrika eine Schultasche und ermögichen ihnen damit den Schulbesuch."
+    - title : "Finanzielle Hilfe"
+      image : "images/uploads/marketplace2.jpeg"
+      content : "Wir hinterlassen regional als auch international unsere Fußspuren: Menschen unserer Region bieten wir in schwierigen Situationen 
+      finanzielle Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
+      Ein Viertel unserer finanziellen Mittel geht an internationale Projekte wie Mary`s Meals, Concordia Sozialprojekte, Missio, uvm."
       
     # intro item loop
-    - title : "KOSTNIX-Laden"
-      image : "images/about/image-3.jpg"
-      content : "Nach dem Motto: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen
-       ein zweites Leben und haben im Pfarrhof St. Peter / Kbg. einen „KostNixLaden“ eröffnet."
+    - title : "Materielle Hilfe"
+      image : "images/uploads/marketplace3.jpeg"
+      content : "Nachhaltigkeit zu fördern ist ein Eckpfeiler unserer Aktivitäten. Durch das Prinzip: „Tauschen statt Wegwerfen“ geben wir brauchbaren 
+      Dingen ein zweites Leben. Sachspenden werden an Menschen unserer Region kostenlos weitergegeben. 
+      Zusätzlich organisieren wir Hilfslieferungen in arme Landesteile Osteuropas..."
       
     # intro item loop
-    - title : "Help The children"
-      image : "images/about/image-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title : "Ehrenamt"
+      image : "images/uploads/marketplace4.jpeg"
+      content: "Wir freuen uns über Ihr Engagement! Bei den WIR-Treffen bekommen Sie die Möglichkeit eigene Talente, Interessen und Fähigkeiten einzubringen
+      #und andere daran teilhaben zu lassen. Sie können beim Organisieren und Verteilen der Sachspenden helfen, sowie Hilfsangebote und Projekte mitorganisieren. "
 
 ################################# Video ###############################
 video:
@@ -90,7 +98,7 @@ causes:
   enable : true
   subtitle : "Überblick"
   title : "Projekte"
-  content : "Für ausführliche Informationen auf den Artikel klicken."
+  content : ""
   # causes item comes from "content/event" folder
 
 ######################## call to action ###################################

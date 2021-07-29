@@ -3,19 +3,31 @@ about:
   enable : true
   image : "images/uploads/Promo-Instagram-Instagram ad square.jpeg" #Gruppenfoto
   title : "Wissenswertes über die Vinzenzgemeinschaft Bezirk Murau"
-  leadContent : "Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
-  Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
-  Unser Vorbild ist der Hl. Vinzenz von Paul.
-  Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten Jesus Christus vor uns steht und um Hilfe bittet."
-  content : "Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen um
-Nachhaltigkeit zu fördern und Ressourcen zu schonen. Denn JETZT ist die Zeit für die Veränderung unseres Lebensstils:
-„Nicht alles neu kaufen – nutzen was da ist – weiterverwenden so lange es geht - sparsamer leben und fragen wie viel brauche ich eigentlich?“
-Nach dem Motto: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen ein zweites Leben und haben im Pfarrhof St. Peter / Kbg. einen „KostNixLaden“ eröffnet."
+  leadContent : "Die Vinzenzgemeinschaft Bezirk Murau wurde 2015 gegründet, als unzählige schutzsuchende Menschen nach Österreich gekommen sind. 
+  Für unser erstes Projekt wählten wir damals den Namen „Wüstenrose – wenn Menschen sich gegenseitig zur Quelle werden“. <br/><br/>
+  Dieser Name steht dafür, dass jeder Mensch einen Beitrag für eine bessere Welt leisten kann, auch wenn es den Anschein hat, dass es „nur ein Tropfen“ ist."
+  #"Als Vinzenzgemeinschaft setzen wir uns aktiv für Menschen ein, die sich in schwierigen 
+  #Lebenssituationen befinden und bieten Hilfe für Grundbedürfnisse wie Miete, Nahrung und Kleidung an.
+  #Unser Vorbild ist der Hl. Vinzenz von Paul.
+  #Wie kaum ein anderer vor ihm, macht er uns bewusst, dass in jedem Armen und Verzweifelten Jesus Christus vor uns steht und um Hilfe bittet."
+
+
+  content : "
+  Er steht für die Hoffnung der Menschen in Not, dass ihr Leben nach den Durststrecken wieder zu blühen beginnen kann und für die Nächstenliebe zu der wir alle berufen sind. 
+  Das ist bis heute unsere Motivation geblieben und die Angebote der Vinzenzgemeinschaft sind nicht mehr wegzudenken. 
+  Wir kümmern uns um Mitmenschen in materieller Not, unabhängig ihrer Herkunft oder ihres Religionsbekenntnisses. Dabei arbeiten wir mit den bestehenden sozialen Einrichtungen sowie Pfarren und Caritas eng zusammen. Auch in unserem Bezirk gibt es immer wieder Menschen die in existentielle Not geraten, die ihre Wohnungen nicht mehr heizen können, nicht genug Geld für Kleidung oder Nahrung haben. 
+  Unser Schutzpatron ist der Hl Vinzenz von Paul, der uns als „Apostel der Nächstenliebe“ bewusst macht, dass in jedem Armen und Verzweifelten Jesus Christus vor uns steht und um Hilfe bittet. Auch der Gründer der Vinzenzgemeinschaften der Sel. Frédéric von Ozanam ist uns ein großes Vorbild - seiner Ansicht nach hat Glaube ohne Nächstenliebe keinen Sinn. 
+  Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen um Nachhaltigkeit zu fördern und Ressourcen zu schonen. Durch das Prinzip: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen ein zweites Leben und bieten Kleidung uvm. in unserem „KostNix-Laden“ im Pfarrhof St Peter zur freien Entnahme an. Die Öffnungszeiten sind an die Kanzleistunden der Pfarre bzw. Büchereizeiten gekoppelt. Abgabe von Kleidung bitte NUR nach Absprache bzw. nur saubere Kleidung die selbst noch getragen werden könnte!  
+  Als Vinzenzgemeinschaft gehören wir zur größten ehrenamtlichen Laienorganisation der Welt, in der sämtliche Arbeiten ehrenamtlich geleistet werden. "
+  #"Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen um
+  #Nachhaltigkeit zu fördern und Ressourcen zu schonen. Denn JETZT ist die Zeit für die Veränderung unseres Lebensstils:
+  #„Nicht alles neu kaufen – nutzen was da ist – weiterverwenden so lange es geht - sparsamer leben und fragen wie viel brauche ich eigentlich?“
+  #Nach dem Motto: „Tauschen statt Wegwerfen“ geben wir brauchbaren Dingen ein zweites Leben und haben im Pfarrhof St. Peter / Kbg. einen „KostNixLaden“ eröffnet."
 
 
 ############################# partners ##########################
 partners:
-  enable : true
+  enable : false
   title : "Kooperationen"
   content : "Mary`s Meals"
   partnersLogo:
@@ -38,25 +50,25 @@ partners:
 
 ########################## history ##############################
 history:
-  enable : true
+  enable : false
   historyItem:
     # history item loop
-    - title : "Gegründet 2020"
+    - title : "Gegründet 2016"
       icon : "ti-home"
-      subtitle : "Wir helfen mit Freude!!"
-      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      subtitle : "Helfen hilft!"
+      content : ""
       
     # history item loop
     - title : "Vinzenz von Paul"
       icon : "ti-agenda"
       subtitle : "Patron der Vinzenzgemeinschaften"
-      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      content : ""
       
     # history item loop
     - title : "Frederic Ozanam"
       icon : "ti-hand-open"
       subtitle : "Gründer der Vinzenzgemeinschaften"
-      content : "Cum voluptas tenetur, voluptatibus mollitia odio sint, alias debitis quasi ut commodo consequat."
+      content : ""
 
 ############################### Team ##############################
 team:
