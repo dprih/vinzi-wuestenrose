@@ -1,8 +1,13 @@
 ---
-title: "Aktuelles"
-date: 2019-09-25T11:28:32+06:00
 draft: false
-description : "header"
-bgImage: "images/uploads/bluesky_landscape.jpeg"
+author: Astrid Prieling
+title: Jubiläumswoche
+date: 2021-07-04T14:07:14.264Z
+bgImage: images/Tropfen.jpg
+image: images/logoBlack.png
+categories: []
+tags: []
+type: post
+description: Aktuelles
 ---
-
+Terminvorschau:
