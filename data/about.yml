@@ -83,7 +83,7 @@ team:
     # team member loop
     - name : "Marie-Luise Mürzl"
       designation : "Obfrau"
-      image : "images/uploads/Promo-Facebook-Facebook feed-6.jpeg"
+      image : "images/team/marlies.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -120,9 +120,9 @@ team:
           link : "#"
 
     # team member loop
-    - name : "John Doe"
+    - name : "Peter"
       designation : "Mitglied"
-      image : "images/uploads/Promo-Facebook-Facebook feed-3.jpeg"
+      image : "images/team/peter.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -131,7 +131,7 @@ team:
     # team member loop
     - name : "Carmen Mürzl"
       designation : "Mitglied"
-      image : "images/uploads/Promo-Facebook-Facebook feed-5.jpeg"
+      image : "images/team/carmen.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -140,7 +140,25 @@ team:
     # team member loop
     - name : "Bernhard Mürzl"
       designation : "Mitglied"
-      image : "images/uploads/Promo-Facebook-Facebook feed-2.jpeg"
+      image : "images/team/bernhard.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : "Karl"
+      designation : "Mitglied"
+      image : "images/team/karl.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : "Doris"
+      designation : "Mitglied"
+      image : "images/team/doris.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons

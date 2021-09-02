@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vinzi-wuestenrose.netlify.app/causes/40_slowakei/</loc>
-    <lastmod>2020-09-25T11:28:32+06:00</lastmod>
+    <loc>https://vinzi-wuestenrose.netlify.app/causes/10_kostnix-laden/</loc>
+  </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/causes/20_lebensmittelrettung/</loc>
+  </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/causes/30_rucksackprojekt/</loc>
   </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/causes/50_schulkuechenpatenschaft/</loc>
   </url><url>
@@ -101,8 +104,14 @@
   </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/impressum/bsp_txt/</loc>
   </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/categories/kostnix/</loc>
+  </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/categories/lebensmittelrettung/</loc>
+  </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/categories/marys-meals-%C3%B6sterreich/</loc>
   </url><url>
     <loc>https://vinzi-wuestenrose.netlify.app/tags/schulk%C3%BCckenpatenschaft/</loc>
+  </url><url>
+    <loc>https://vinzi-wuestenrose.netlify.app/tags/schultaschen/</loc>
   </url>
 </urlset>
