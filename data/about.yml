@@ -111,6 +111,23 @@ team:
           link : "#"
 
     # team member loop
+    - name : "Carmen Mürzl, BA MA"
+      designation : "Schriftführerin"
+      image : "images/team/carmen.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : "Ing. Peter Hasler"
+      designation : "Schriftführer Stv."
+      image : "images/team/peter.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"    
+    # team member loop
     - name : "Astrid Prieling"
       designation : "Kassierin"
       image : "images/team/astrid.jpg"
@@ -128,28 +145,10 @@ team:
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"
 
-    # team member loop
-    - name : "Carmen Mürzl Ba. Ma."
-      designation : "Schriftführerin"
-      image : "images/team/carmen.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "Ing. Peter Hasler"
-      designation : "Schriftführer S_tv."
-      image : "images/team/peter.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"          
-          
-
+                
     # team member loop
     - name : "Bernhard Mürzl"
-      designation : "Geistlicher Beirat"
+      designation : "Diakon, Geistlicher Beirat"
       image : "images/team/bernhard.jpeg"
       social:
         - name : "facebook"

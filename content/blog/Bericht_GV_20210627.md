@@ -6,7 +6,7 @@ description : "Bericht Generalversammlung"
 bgImage: "images/bg/bg-3.jpg"
 image: "images/resized/gvagenda.jpeg"
 categories: 
-  - "Verein"
+  - "Archiv"
 tags:
   - "Generalversammlung"
   - "Bericht"

@@ -1,15 +1,15 @@
 ---
 title: "5 Jahre Vinzenzgemeinschaft Bezirk Murau"
-date: 2021-07-29
+date: 2021-08-29
 draft: false
 description : "5 Jahre Vinzenzgemeinschaft"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/uploads/tropfen_320ig.jpeg"
 categories: 
-  - "Verein"
+  - "Archiv"
 tags:
-  - "Jubiläum"
-  #- "Mitglied"
+  - Veranstaltung
+  - Verein
 type: "post"
 ---
 ##### Unterwegs im Auftrag der Nächstenliebe

@@ -1,10 +1,10 @@
 ---
 title: Generalversammlung
-date: 2021-06-30T11:28:32+06:00
+date: 2021-06-30
 draft: false
 bgImage: images/bg/bg-3.jpg
-image: images/einladungGV202106.jpg
-eventDate: 2021-06-26T22:00:00.000Z
+image: images/generalversammlung202106.jpg
+eventDate: 2021-06-26
 location: Gasthof Hirschenwirt, Schöder
 organizer: Vinzenzgemeinschaft Bezirk Murau
 type: event

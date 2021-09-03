@@ -24,11 +24,14 @@ intro:
   # Jesus Christus vor uns steht und um Hilfe bittet.
   introItem:
     # intro item loop
-    - title : "Gemeinschaft"
+    - title : "Vinzenz Gemeinschaft"
       image : "images/uploads/marketplace1.jpeg"
-      content : "Zu den „WIR-Treffen“ im Pfarrhof St. Peter/Kbg. am 2. Montag im Monat von 15:00-16:30 Uhr sind alle Menschen der Region herzlich eingeladen.
-      Durch Zusammenkommen, Austausch und Gesprächen wird Gemeinschaft erlebbar und Kontakte entstehen. 
-      Wir bieten eine offene Gruppe mit unverbindlicher Teilnahme – einsteigen ist jederzeit möglich."
+      content : "Um Nächstenliebe in die Tat umzusetzen wurde in unserem Dekanat die erste Vinzenzgemeinschaft gegründet. 
+      Als Teil der [Vinzenzgemeinschaften der Steiermark](https://www.vinzenzgemeinschaft-steiermark.at)
+      arbeiten wir mit dem Ziel als kleine und selbstständig arbeitende Gruppe rasch und unbürokratisch helfen zu können."
+      #"Zu den „WIR-Treffen“ im Pfarrhof St. Peter/Kbg. am 2. Montag im Monat von 15:00-16:30 Uhr sind alle Menschen der Region herzlich eingeladen.
+      #Durch Zusammenkommen, Austausch und Gesprächen wird Gemeinschaft erlebbar und Kontakte entstehen. 
+      #Wir bieten eine offene Gruppe mit unverbindlicher Teilnahme – einsteigen ist jederzeit möglich."
       
     # intro item loop
     - title : "Finanzielle Hilfe"
