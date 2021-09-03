@@ -104,7 +104,7 @@ team:
     # team member loop
     - name : "Roswitha Bacher"
       designation : "Obfrau Stv."
-      image : "images/uploads/Promo-Facebook-Facebook feed-4.jpeg"
+      image : "images/team/roswitha.jpg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -113,34 +113,7 @@ team:
     # team member loop
     - name : "Astrid Prieling"
       designation : "Kassierin"
-      image : "images/uploads/Promo-Facebook-Facebook feed.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "Peter Hasler"
-      designation : "Mitglied"
-      image : "images/team/peter.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"          
-          
-    # team member loop
-    - name : "Carmen Mürzl"
-      designation : "Mitglied"
-      image : "images/team/carmen.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "Bernhard Mürzl"
-      designation : "Mitglied"
-      image : "images/team/bernhard.jpeg"
+      image : "images/team/astrid.jpg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
@@ -148,7 +121,7 @@ team:
 
     # team member loop
     - name : "Karl Tritscher"
-      designation : "Mitglied"
+      designation : "Kassier Stv."
       image : "images/team/karl.jpeg"
       social:
         - name : "facebook"
@@ -156,7 +129,37 @@ team:
           link : "#"
 
     # team member loop
-    - name : "Doris Prieling"
+    - name : "Carmen Mürzl Ba. Ma."
+      designation : "Schriftführerin"
+      image : "images/team/carmen.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - name : "Ing. Peter Hasler"
+      designation : "Schriftführer S_tv."
+      image : "images/team/peter.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"          
+          
+
+    # team member loop
+    - name : "Bernhard Mürzl"
+      designation : "Geistlicher Beirat"
+      image : "images/team/bernhard.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+
+
+    # team member loop
+    - name : "Dr. Doris Prieling"
       designation : "Mitglied"
       image : "images/team/doris.jpeg"
       social:
