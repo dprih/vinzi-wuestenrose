@@ -19,20 +19,22 @@ Schulernährung für hungernde Kinder.
 Mit 18,30€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!
 <!--more-->
 
-Mary's Meals - eine Schale Getreide verändert die Welt
-###### Verein: „Mary’s Meals – Schulernährung für hungernde Kinder“
+_Mary's Meals - eine Schale Getreide verändert die Welt_
+##### Spendenkonto:
+###### IBAN AT02 3236 7000 0004 7779
+###### 
+###### Verwendugszweck: "Schulküche Murau"
+<!-- ###### Verein: „Mary’s Meals – Schulernährung für hungernde Kinder“
 ###### Steinbauergasse 15/24
 ###### 1120 Wien, Österreich
 ###### Tel: +43 664 88933572
 ###### E-Mail: info@marysmeals.at
-###### ZVR: 815375485
+###### ZVR: 815375485 -->
 
 [https://www.marysmeals.at](https://www.marysmeals.at)
 
-##### Spendenkonto:
-IBAN AT02 3236 7000 0004 7779
-###### 
-Verwendugszweck: "Schulküche Murau"
+
+
 
 
 #### Filmtipp: Die Geschichte von Mary's Meals

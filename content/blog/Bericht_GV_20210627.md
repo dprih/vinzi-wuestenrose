@@ -3,7 +3,7 @@ title: "Bericht zur Generalversammlung"
 date: 2019-09-25T11:28:32+06:00
 draft: false
 description : "Bericht Generalversammlung"
-bgImage: "images/bg/bg-3.jpg"
+bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/resized/gvagenda.jpeg"
 categories: 
   - "Archiv"

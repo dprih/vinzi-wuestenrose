@@ -159,7 +159,7 @@ team:
 
     # team member loop
     - name : "Dr. Doris Prieling"
-      designation : "Mitglied"
+      designation : "Admin"
       image : "images/team/doris.jpeg"
       social:
         - name : "facebook"

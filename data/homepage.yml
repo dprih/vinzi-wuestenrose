@@ -26,9 +26,9 @@ intro:
     # intro item loop
     - title : "Vinzenz Gemeinschaft"
       image : "images/uploads/marketplace1.jpeg"
-      content : "Um Nächstenliebe in die Tat umzusetzen wurde in unserem Dekanat die erste Vinzenzgemeinschaft gegründet. 
-      Als Teil der [Vinzenzgemeinschaften der Steiermark](https://www.vinzenzgemeinschaft-steiermark.at)
-      arbeiten wir mit dem Ziel als kleine und selbstständig arbeitende Gruppe rasch und unbürokratisch helfen zu können."
+      content : "Um Nächstenliebe in die Tat umzusetzen wurde in unserem Bezirk die erste Vinzenzgemeinschaft gegründet. 
+      Als eine von 61 [Vinzenzgemeinschaften in der Steiermark](https://www.vinzenzgemeinschaft-steiermark.at)
+      sind wir eine kleine und selbstständig arbeitende Gruppe um rasch und unbürokratisch helfen zu können."
       #"Zu den „WIR-Treffen“ im Pfarrhof St. Peter/Kbg. am 2. Montag im Monat von 15:00-16:30 Uhr sind alle Menschen der Region herzlich eingeladen.
       #Durch Zusammenkommen, Austausch und Gesprächen wird Gemeinschaft erlebbar und Kontakte entstehen. 
       #Wir bieten eine offene Gruppe mit unverbindlicher Teilnahme – einsteigen ist jederzeit möglich."
@@ -50,8 +50,10 @@ intro:
     # intro item loop
     - title : "Ehrenamt"
       image : "images/uploads/marketplace4.jpeg"
-      content: "Wir freuen uns über Ihr Engagement! Bei den WIR-Treffen bekommen Sie die Möglichkeit eigene Talente, Interessen und Fähigkeiten einzubringen 
-      und andere daran teilhaben zu lassen. Sie können beim Organisieren und Verteilen der Sachspenden helfen, sowie Hilfsangebote und Projekte mitorganisieren. "
+      content: "Wir freuen uns über Ihr Engagement! 
+      Sie bekommen die Möglichkeit eigene Talente, Interessen und Fähigkeiten einzubringen 
+      und andere daran teilhaben zu lassen. 
+      Sie können beim Organisieren und Verteilen der Sachspenden helfen, sowie Hilfsangebote und Projekte mitorganisieren. "
 
 ################################# Video ###############################
 video:

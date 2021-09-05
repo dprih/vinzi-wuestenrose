@@ -1,5 +1,5 @@
 ---
-title: Jubiläumswoche "Vinzenz von Paul" der VG Bezirk Murau-Wüstenrose 
+title: Jubiläumswoche "Vinzenz von Paul" der Vinzenzgemeinschaft Bezirk Murau
 date: 2021-09-02
 draft: false
 bgImage: images/images.jpg

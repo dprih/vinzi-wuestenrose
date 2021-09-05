@@ -3,7 +3,8 @@ title: Rucksackprojekt
 date: 2020-07-2T11:28:32+06:00
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: "images/uploads/schultasche_marketplace.jpeg"
+image: images/20210825_123618.jpg
+#"images/uploads/schultasche_marketplace.jpeg"
 goal: Schultaschen sammeln
 raised: Schultaschen schenken
 weight: 30
@@ -25,38 +26,34 @@ Die Idee ist ganz einfach: Kinder und Jugendliche aus Österreich packen für Ki
 Alle Materialien (außer Hygieneartikel) dürfen gebraucht sein, solange sie in einem guten Zustand sind.
 
 #### Was packe ich in den Rucksack/die Schultasche?
-- 3 Schulhefte oder Blöcke
+- 2 Schulhefte oder Notitzblöcke
 - 2 Bleistifte
-- 1 Pkg. Buntstifte
-- 1 Spitzer
+- 1 Buntstife (kleine Packung)
 - 1 Radiergummi
-- 1 Federpennal
-- 2 Kugelschreiber
 - 1 Lineal
-
-- 1 Löffel (am Besten aus Metall)
-
+- 1 Spitzer
+- 1 Federpennal
+- 1 Handtuch
+- 1 Kleiderset (Bub/Mädchen)
+- 1 Sandalen/Flip Flops
+- 1 Tennisball/kleiner Ball
+- 1 Seife
 - 1 Zahnbürste
 - 1 Zahnpasta
-- 1 Seife
-- 1 Handtuch
-
-- 1 Kleiderset (wahlweise Bub oder Mädchen (T-Shirt & Shorts oder Kleid)
-- 1 Paar Sandalen oder Flip Flops
-
-- 1  Tennisball oder kleiner Ball
+- 1 Löffel
 
 Bitte nur aufgelistete Dinge in den Rucksack packen, um alle Kinder gleich zu behandeln! Zusätzliche Materialien bitte in ein eigenes Sackerl geben
 
 #### Abgabestelle
-Marie-Luise Mürzl
-Baierdorf 115
-8844 Schöder
-Tel.: +43 650 3536751
+###### Marie-Luise Mürzl 
+###### Baierdorf 115
+###### 8844 Schöder
+###### Tel.: +43 650 3536751
 
 oder
 
-KOSTNIX-Laden Pfarrhof St. Peter Kbg.
+###### [KOSTNIX-Laden Pfarrhof St. Peter Kbg.](https://vinzi-wuestenrose.netlify.app/causes/10_kostnix-laden/) 
+
 
 #### DANKESCHÖN von der Bangwe Grundschule in Malawi
 > *„Können Sie eine Nachricht an die Menschen weiterleiten, die diese Rucksäcke spenden? Bitte sagen Sie „Danke“. Sie haben diese Kinder so glücklich gemacht. Sie sind nun so stolz auf ihre Rucksäcke!“*
