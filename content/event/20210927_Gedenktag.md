@@ -2,7 +2,7 @@
 title: Gedenktag des HL. Vinzenz von Paul
 date: 2021-09-13
 draft: false
-bgImage: "images/uploads/bluesky_landscape.jpeg"
+bgImage: images/blog/einladungJW.PNG
 image: images/blog/einladungJW4.PNG
 eventDate: "27. September 2021, 18:30"
 location: Baierdorfer Kirche

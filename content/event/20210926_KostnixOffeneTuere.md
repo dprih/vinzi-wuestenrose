@@ -2,7 +2,7 @@
 title: Tag der offenen Tür rund um den KOSTNIX-Laden
 date: 2021-09-12
 draft: false
-bgImage: "images/uploads/bluesky_landscape.jpeg"
+bgImage: images/blog/einladungJW.PNG
 image: images/blog/einladungJW3.PNG
 eventDate: "26. September 2021, 09:00 - 17:00"
 location: KOSTNIX-Laden, Sitzungssaal Pfarrhof St. Peter

@@ -1,8 +1,8 @@
 ---
 title: 10 Schritte für das seelische Wohlbefinden
-date: 2021-09-12
+date: 2021-09-11
 draft: false
-bgImage: "images/uploads/bluesky_landscape.jpeg"
+bgImage: images/blog/einladungJW.PNG
 image: images/blog/einladungJW2.PNG
 eventDate: "24. September 2021, 17:00"
 location: GO-ON - Suizidprävention Steiermark
