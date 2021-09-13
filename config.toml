@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://vinzi-wuestenrose.netlify.app"
+baseURL = "https://vinzi-wuestenrose.at"
+#"https://vinzi-wuestenrose.netlify.app"
 languageCode = "de-de"
 title = "Vinzenzgemeinschaft Bezirk Murau - Wuestenrose"
 theme = "wishfund-hugo"
@@ -190,7 +191,7 @@ link = "https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url=https:
 [[params.postShare]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 name = "linkedin"
-link = "https://www.linkedin.com/shareArticle?mini=true&amp;url=https://vinzi-wuestenrose.netlify.app&amp;source=https://vinzi-wuestenrose.at&amp;title={{ $title }}&amp;summary={{ $title }}" 
+link = "https://www.linkedin.com/shareArticle?mini=true&amp;url=https://vinzi-wuestenrose.at.app&amp;source=https://vinzi-wuestenrose.at&amp;title={{ $title }}&amp;summary={{ $title }}" 
 #link = "https://www.linkedin.com/shareArticle?mini=true&amp;url={{ $url }}&amp;source={{ $url }}&amp;title={{ $title }}&amp;summary={{ $title }}" 
 
 #[[params.postShare]]
