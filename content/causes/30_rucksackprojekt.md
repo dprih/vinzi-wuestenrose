@@ -52,7 +52,7 @@ Bitte nur aufgelistete Dinge in den Rucksack packen, um alle Kinder gleich zu be
 
 oder
 
-###### [KOSTNIX-Laden Pfarrhof St. Peter Kbg.](https://vinzi-wuestenrose.netlify.app/causes/10_kostnix-laden/) 
+###### [KOSTNIX-Laden Pfarrhof St. Peter Kbg.](https://vinzi-wuestenrose/causes/10_kostnix-laden/) 
 
 
 #### DANKESCHÖN von der Bangwe Grundschule in Malawi

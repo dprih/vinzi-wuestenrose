@@ -25,7 +25,7 @@ So sind daraus **Freundschaften** entstanden, die bis heute andauern.
 Alle diese Familien haben sich gemeldet und ihr Beileid ausgedrückt. Mina/Masoud/ Omar/ Mohammed/ Siyavush/Elnara uvm. 
 Es ist berührend, wenn **Christen und Muslime gemeinsam trauern**.
 
-Als ihr Vermächtnis kann man die [_Marys Meals Schulküchenpatenschaft Bezirk Murau_](https://vinzi-wuestenrose.netlify.app/causes/50_schulkuechenpatenschaft/) bezeichnen: In kürzester Zeit hat sie durch unermüdlichen Einsatz, das Spendenziel für das erste Schuljahr erreicht! 
+Als ihr Vermächtnis kann man die [_Marys Meals Schulküchenpatenschaft Bezirk Murau_](https://vinzi-wuestenrose/causes/50_schulkuechenpatenschaft/) bezeichnen: In kürzester Zeit hat sie durch unermüdlichen Einsatz, das Spendenziel für das erste Schuljahr erreicht! 
 Das bedeutet, dass 239 Kinder 1 Jahr lang, täglich eine Mahlzeit in einer Schule in Liberia erhalten. 
 Im Sinne von Ingrid werden wir als Vinzenzgemeinschaft natürlich alles tun, um diesen Kindern **auch in den nächsten Jahren diese Mahlzeiten zu sichern**.
 
