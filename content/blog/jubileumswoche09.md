@@ -18,13 +18,13 @@ description: Vinzenz
 Vortrag von Mag. Klara Heidlberger
 * 19. September 2021, 17:00, Rotes Kreuz Murau Lehrsaal
 
-[Link zur Veranstaltung](www.vinzi-wuestenrose.at/event/20210927_gedenktag)
+[Link zur Veranstaltung](https://www.vinzi-wuestenrose.at/event/20210919_selbsthilfe/)
 
 ###### 10 Schritte für das seelische Wohlbefinden
 mit Carmen Mürzl BA MA 
 * 24. September 2021, 17:00, GO-ON - Suizidprävention Steiermark
 
-[Link zur Veranstaltung](www.vinzi-wuestenrose.at/event/20210927_gedenktag)
+[Link zur Veranstaltung](https://www.vinzi-wuestenrose.at/event/20210924_suizidpraevention/)
 
 ###### Tag der offenen Tür rund um den KOSTNIX-Laden
 inklusive Jubiläumsshop mit Besonderheiten im Sitzungssaal des Pfarrhofs St. Peter Kbg.
@@ -32,13 +32,13 @@ inklusive Jubiläumsshop mit Besonderheiten im Sitzungssaal des Pfarrhofs St. Pe
 
 Gleichzeitig zum Erntedankfest der Pfarre St. Peter Kbg. sagen wir DANKE für 5 1/2 Jahre Vinzenzgemeinschaft Bezirk Murau.
 
-[Link zur Veranstaltung](www.vinzi-wuestenrose.at/event/20210927_gedenktag)
+[Link zur Veranstaltung](https://www.vinzi-wuestenrose.at/event/20210926_kostnixoffenetuere/)
 
 ###### Gedenktag des HL. Vinzenz von Paul
 WORT-GOTTES-FEIER mit anschließender Agape
 * 27. September 2021, 18:30, Baierdorfer Kirche
 
-[Link zur Veranstaltung](www.vinzi-wuestenrose.at/event/20210927_gedenktag)
+[Link zur Veranstaltung](https://www.vinzi-wuestenrose.at/event/20210927_gedenktag/)
 
 
 <!-- ![image](static/images/blog/einladungJW.PNG) -more-->
