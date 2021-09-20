@@ -1,5 +1,5 @@
 ---
-title: Vortrag von Mag. Klara Heidlberger (Mary's Meals)
+title: Hilfe zur Selbsthilfe der wirkungsvollste Weg um Not zu lindern
 date: 2021-09-19
 draft: false
 bgImage: images/2mio.jpg
@@ -12,23 +12,48 @@ tags:
 type: post
 description: Vinzenz
 ---
-Am 19. September 2021 fand der Auftakt unserer Jubiläumswoche mit einem Vortrag zum Thema
-"Hilfe zur Selbsthilfe der wirkungsvollste Weg um Not zu lindern"
- von Mag. Klara Heidlberger statt.
+Ein berührender Vortrag von **Mag. Klara Heidlberger** ([Mary's Meals](www.marysmeals.at)), der die folgenden Zeilen bestätigt
+> *"Viele kleine Leute in vielen kleinen Orten, die viele kleine Dinge tun, können das Gesicht der Welt verändern."*
 #### Spendenaufruf
 <!--more-->
 ##### Schulernährung
 Die **Schulküchenpatenschaft Bezirk Muau** schenkt 236 Kindern die Chance auf eine bessere Zukunft.
 Mit nur **18,30 Euro** (9 Cent pro Tag) ermöglichen Sie einem Kind tägliche Schulmahlzeiten für ein Jahr.
 * Spenden an **IBAN: AT02 3236 7000 0004 7779**
-* **Verwendungszweck: Schulküche Murau**
+* **Verwendungszweck: Schulküche Murau**  
+
 [Link zu unserer Projektseite](https://www.vinzi-wuestenrose.at/causes/50_schulkuechenpatenschaft/)
 
 
 ##### Rucksackprojekt
 Jedes Mary's Meals-Kind erhät einen eigenen Schulrucksack! Für die Kinder in Afrika ist das eine große Kostbarkeit!
-Die Idee ist ganz einfach! Kinder in Österreich packen für Kinder in Afrika eine Schultasche und ermöglichen ihnen so den Schulbesuch.
-* [Link zu unserer Projektseite](https://www.vinzi-wuestenrose.at/causes/30_rucksackprojekt/)
+Die Idee ist ganz einfach! Kinder in Österreich packen für Kinder in Afrika eine Schultasche und ermöglichen ihnen so den Schulbesuch.  
+
+[Link zu unserer Projektseite](https://www.vinzi-wuestenrose.at/causes/30_rucksackprojekt/)
+
+---
+
+##### Gebet für Mary's Meals
+Vater unser,  
+gib uns heute unser tägliches Brot  
+und vergib uns, wenn wir mehr nehmen  
+als unseren Teil des Brotes,  
+das allen gehört.  
+Lass uns dir helfen, die Hungernden mit  
+guten Gaben zu beschenken und nicht  
+mit den Resten von unserem Tisch.  
+Lehre uns zu teilen,  
+was wir nicht behalten sollen.  
+Bekleide uns mit deiner Liebe,   
+damit wir jedes gute Werk vollenden  
+können, für das du uns geschaffen hast.  
+Lege dein Mitleid für jedes hungernde Kind  
+in unsere Herzen und nutze  
+unsere kleinen Taten der Liebe,   
+um ihren Hunger zu stillen.  
+Amen.
+
+---
 
 ###### Pressemitteilung von [Mary's Meals](www.marysmeals.at)
 #### 2 Millionen Gründe zum Feiern
