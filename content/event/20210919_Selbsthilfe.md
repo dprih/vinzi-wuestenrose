@@ -1,6 +1,6 @@
 ---
 title: Hilfe zur Selbsthilfe der wirkungsvollste Weg um Not zu lindern
-date: 2021-09-10
+date: 2021-09-08
 draft: false
 bgImage: images/blog/einladungJW.PNG
 image: images/blog/einladungJW1.PNG

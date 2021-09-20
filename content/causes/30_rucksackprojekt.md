@@ -3,7 +3,7 @@ title: Rucksackprojekt
 date: 2020-07-2T11:28:32+06:00
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: images/20210825_123618.jpg
+image: images/blog/ruck.jpg #images/20210825_123618.jpg
 #"images/uploads/schultasche_marketplace.jpeg"
 goal: Schultaschen sammeln
 raised: Schultaschen schenken
