@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://vinzi-wuestenrose.at"
+baseURL = "https://www.vinzi-wuestenrose.at"
 #"https://vinzi-wuestenrose.netlify.app"
 languageCode = "de-de"
 title = "Vinzenzgemeinschaft Bezirk Murau - Wuestenrose"
