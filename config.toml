@@ -123,7 +123,7 @@ email = "info@vinzi-wuestenrose.at"
 location = "Baierdorf 115, A-8844 Schöder"
 copyright = "&copy; 2021 Vinzenzgemeinschaft Murau"#2019 a theme by [themefisher](https://themefisher.com/)"
 # Meta data
-description = "This is meta description"
+description = "Vinzenzgemeinschaft Bezirk Murau"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
