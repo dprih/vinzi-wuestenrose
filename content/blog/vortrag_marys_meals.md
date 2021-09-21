@@ -22,6 +22,10 @@ Mit nur **18,30 Euro** (9 Cent pro Tag) ermöglichen Sie einem Kind tägliche Sc
 * Spenden an **IBAN: AT02 3236 7000 0004 7779**
 * **Verwendungszweck: Schulküche Murau**  
 
+oder
+
+* [Spenden via Facebook](https://www.facebook.com/donate/3094017167486354/1300543690364736/)
+
 [Link zu unserer Projektseite](https://www.vinzi-wuestenrose.at/causes/50_schulkuechenpatenschaft/)
 
 

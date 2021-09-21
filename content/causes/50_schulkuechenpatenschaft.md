@@ -21,9 +21,10 @@ Mit 18,30€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der
 
 _Mary's Meals - eine Schale Getreide verändert die Welt_
 ##### Spendenkonto:
-###### IBAN AT02 3236 7000 0004 7779
-###### 
-###### Verwendugszweck: "Schulküche Murau"
+IBAN **AT02 3236 7000 0004 7779**  
+**Verwendugszweck: "Schulküche Murau"**  
+oder  
+[Spenden via Facebook](https://www.facebook.com/donate/3094017167486354/1300543690364736/)  
 <!-- ###### Verein: „Mary’s Meals – Schulernährung für hungernde Kinder“
 ###### Steinbauergasse 15/24
 ###### 1120 Wien, Österreich
