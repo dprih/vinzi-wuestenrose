@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jubiläumswoche on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
+    <title>Aktuelles on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
     <link>https://www.vinzi-wuestenrose.at/blog/</link>
-    <description>Recent content in Jubiläumswoche on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
+    <description>Recent content in Aktuelles on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 04 Jul 2021 14:07:14 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weihnachtspaketaktion *Hoffnung und Freude*</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/moldawien/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/moldawien/</guid>
+      <description>&lt;h5 id=&#34;das-projekt&#34;&gt;Das Projekt&lt;/h5&gt;
+&lt;p&gt;Die Weihnachtspaketaktion &amp;ldquo;Hoffnung und Freude&amp;rdquo; ist durch die Initiative des Bundes evangelikaler Gemeinden in Österreich entstanden. &lt;strong&gt;&amp;ldquo;Hilfe die ankommt&amp;rdquo;&lt;/strong&gt; hat es sich zum Ziel gesetzt, mit Ihrer Hilfe jedes Jahr zu &lt;strong&gt;Weihnachten hilfsbedürftigen Kindern und deren Eltern&lt;/strong&gt; eine Freude zu machen.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Oktober - Monat der Weltmission</title>
       <link>https://www.vinzi-wuestenrose.at/blog/missio/</link>
@@ -14,6 +24,16 @@
       
       <guid>https://www.vinzi-wuestenrose.at/blog/missio/</guid>
       <description>&lt;p&gt;&amp;ldquo;Lasst uns nicht müde werden, das Gute zu tun&amp;rdquo; (Gal 6,9)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vinzentinisches Gebet</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/gebet/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/gebet/</guid>
+      <description>&lt;p&gt;Herr, lass mich zu allen Menschen&lt;br&gt;
+ein guter Freund sein.&lt;/p&gt;</description>
     </item>
     
     <item>
