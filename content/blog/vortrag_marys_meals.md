@@ -14,7 +14,7 @@ description: Vinzenz
 ---
 Ein berührender Vortrag von **Mag. Klara Heidlberger** ([Mary's Meals](www.marysmeals.at)), der die folgenden Zeilen bestätigt:
 > *"Viele kleine Leute in vielen kleinen Orten, die viele kleine Dinge tun, können das Gesicht der Welt verändern."*
-#### Spendenaufruf
+
 <!--more-->
 ##### Schulernährung
 Die **Schulküchenpatenschaft Bezirk Muau** schenkt 236 Kindern die Chance auf eine bessere Zukunft.
