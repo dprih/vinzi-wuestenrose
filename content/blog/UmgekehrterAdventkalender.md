@@ -1,15 +1,15 @@
 ---
 title: Umgekehrter Adventkalender
 date: 2021-11-21
-draft: false
+draft: true
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 #images/images.jpg
 image: images/adventkalender.jpg
 categories:
-  - Spendensammlung
+  - Archiv
 tags:
   - Advent
-type: post
+type: archive
 description: Adventkalender
 ---
 Dass **kleine Ideen Großes** bewirken können beweist die coole Aktion "Umgekehrter Adventkalender" der **[Caritas Steiermark](www.caritas-steiermark.at)**

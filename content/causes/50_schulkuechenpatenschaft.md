@@ -35,7 +35,19 @@ oder
 [https://www.marysmeals.at](https://www.marysmeals.at)
 
 
-
+### Gebet für Mary‘s Meals
+Vater unser,  
+gib uns heute unser tägliches Brot  
+und vergib uns, wenn wir mehr genommen haben als unseren Teil des Brotes,  
+das allen gehört.  
+Lass uns Dir helfen, die Hungernden mit guten Gaben zu beschenken und  
+nicht mit den Resten von unserem Tisch.  
+Lehre uns das zu teilen, was wir nicht für uns behalten sollen.  
+Bekleide uns mit Deiner Liebe, damit wir jedes gute Werk vollenden können,  
+für das Du uns geschaffen hast.  
+Lege Dein Mitleid für jedes hungernde Kind in unsere Herzen und nutze unsere  
+kleinen Taten der Liebe, um ihren Hunger zu stillen.  
+Amen.
 
 
 #### Filmtipp: Die Geschichte von Mary's Meals
