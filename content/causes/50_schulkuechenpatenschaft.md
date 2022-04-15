@@ -3,7 +3,7 @@ title: Schulkückenpatenschaft Bezirk Murau
 date: 2020-07-2T11:28:32+06:00
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: "images/uploads/marysmeals_marketplace.jpeg"
+image: "images/mm_murau.png" 
 goal: 18,30€ pro Jahr für eine tägliche Mahlzeit
 raised: 
 weight: 50
@@ -30,7 +30,9 @@ oder
 ###### 1120 Wien, Österreich
 ###### Tel: +43 664 88933572
 ###### E-Mail: info@marysmeals.at
-###### ZVR: 815375485 -->
+###### ZVR: 815375485 
+-->
+
 
 [https://www.marysmeals.at](https://www.marysmeals.at)
 
