@@ -3,7 +3,7 @@ title: Generalversammlung
 date: 2022-05-27
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: images/gv2022.png
+image: images/einladung-gv22.png
 eventDate: "12. Juni 2022"
 location: Gasthof Hirschenwirt, Schöder
 organizer: Vinzenzgemeinschaft Bezirk Murau
