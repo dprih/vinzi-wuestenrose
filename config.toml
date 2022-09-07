@@ -115,7 +115,7 @@ paginate = 6
 
 
 [params]
-logo = "images/uploads/VG_Mu_logo.PNG" #"images/logoBlack.png"
+logo = "images/uploads/VG_mu_logo_new.png" #"images/uploads/VG_Mu_logo.PNG" #"images/logoBlack.png"
 home = "START"
 # Contact Information
 phone = "+43 650 3536751" ### Marlies Mürzl
