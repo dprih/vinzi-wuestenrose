@@ -3,10 +3,10 @@ title: Schulkückenpatenschaft Bezirk Murau
 date: 2020-07-2T11:28:32+06:00
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: "images/mm_murau.png" 
+image: "images/202212marysmeals.png"
 goal: 18,30€ pro Jahr für eine tägliche Mahlzeit
 raised: 
-weight: 50
+weight: 40
 categories:
   - Mary's Meals Österreich
 tags: Schulkückenpatenschaft
@@ -18,7 +18,7 @@ description: Schulkückenpatenschaft
 Schulernährung für hungernde Kinder. 
 Mit 18,30€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!
 <!--more-->
-
+<!-- image: "images/mm_murau.png" -->
 _Mary's Meals - eine Schale Getreide verändert die Welt_
 ##### Spendenkonto:
 IBAN **AT02 3236 7000 0004 7779**  
@@ -36,6 +36,14 @@ oder
 
 [https://www.marysmeals.at](https://www.marysmeals.at)
 
+### Wirs sind überzeugt, dass in unserer Welt des Überflusses kein Kind hungern muss!
+Durch Marys Meals wird Hilfe zur Selbsthilfe täglich Wirklichkeit, weil...
+- ...Nahrung und Bildung der Schlüssel sind, um einen Ausweg aus der Spirale von Armut und Ausbeutung zu finden.
+- ...das Schulernährungsprogramm von den Gemeinden vor Ort ausgeführt wird und dabei Eltern, LehrerInnen und Ehrenamtliche zusammenwirken.
+- ...die Mütter selbst in die Schule kommen und sich beim Kochen und Austeilen der Mahlzeiten abwechseln.
+- ...Mitarbeiter von Mary’s Meals regelmäßig kontrollieren, ob die wertvollen Nahrungsmittel einwandfrei gelagert und verarbeitet werden und ob sie auch tatsächlich bei den Kindern ankommen.
+- ...vorrangig lokale Grundnahrungsmittel verwendet werden und damit die Landwirte vor Ort und die Wirtschaft des jeweiligen Landes unterstützt werden.
+- ...von jedem Euro, der gespendet wird, mindestens 93 Cent direkt in die Marys Meals Hilfsprojekte fließen.
 
 ### Gebet für Mary‘s Meals
 Vater unser,  
