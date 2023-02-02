@@ -31,3 +31,10 @@ HILFSBEDÜRFTIGEN zugute!
 #### Die SPENDENBOX befindet sich im Shop
 Abgabe von Sachspenden NUR nach Absprache!
 Wir nehmen NUR saubere Kleidung, die selbst noch getragen werden könnte!
+
+#### Minifilialen bei SPAR und ADEG
+NEU sind unsere "Minifilialen" bei SPAR und ADEG sowie in der Ordination von Dr. Huber in St. Peter Kbg.  
+
+Dort können Bücher, Spiele uvm. aus dem KOSTNIX-Laden in Spendenboxen plaziert und gegen freiwillige Spende entnommen werden.  
+
+Mit dem Spendenerlös werden Lebensmittelgutscheine gekauft und an Hilfsbedürftige in der Region weitergegeben.
