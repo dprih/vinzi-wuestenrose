@@ -167,7 +167,7 @@ team:
     # team member loop
     - name : "Roswitha Bacher"
       designation : "Ehrenmitglied"
-      image : "images/team/roswitha.jpg"
+      image : "images/team/ehrenmitglied_roswitha.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons

@@ -11,7 +11,7 @@ tags:
 type: post
 description: Minifilialen (KOSTNIX-Laden)
 ---
-NEU sind unsere "Minifilialen" bei SPAR und ADEG sowie in der Ordination von Dr. Huber in St. Peter Kbg.  
+NEU: "Minifilialen" bei SPAR und ADEG sowie in der Ordination von Dr. Huber in St. Peter Kbg.  
 
 
 <!--more-->

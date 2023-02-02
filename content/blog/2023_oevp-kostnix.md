@@ -1,6 +1,6 @@
 ---
 title: "Kleine Unterstützung für den KOSTNIX-LADEN"
-date: 2023-01-29
+date: 2022-12-26
 draft: false
 description : "Kleine Unterstützung für den KOSTNIX-LADEN"
 bgImage: "images/uploads/bluesky_landscape.jpeg"

@@ -22,6 +22,8 @@ type: "post"
 - Schriftführer Stv.: Ing. Peter Hasler
 - Geistlicher Beirat: Diakon Bernhard Mürzl 
 
+Frau Roswitha Bacher wurde zum Ehrenmitglied der Vinzenzgemeinschaft Bezirk Murau ernannt, in Würdigung ihrer Tätigkeit als Gründungsmitglied, Kassierin Stv.; Obfrau Stv. und als wichtige Mitarbeiterin im KOSNIX-Laden.
+
 [Link zur Teamseite](https://www.vinzi-wuestenrose.at/about/)
 
   

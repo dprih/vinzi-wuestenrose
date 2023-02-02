@@ -1,6 +1,6 @@
 ---
 title: "Frohe Weihnachten"
-date: 2022-12-24
+date: 2020-12-24
 draft: false
 description : "Frohe Weihnachten"
 bgImage: "images/uploads/bluesky_landscape.jpg"
