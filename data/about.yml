@@ -102,16 +102,34 @@ team:
           ##link : "#"
           
     # team member loop
-    - name : "Roswitha Bacher"
+    - name : "Mag. Karin Dorfer"
       designation : "Obfrau Stv."
-      image : "images/team/roswitha.jpg"
+      image : "images/team/karin.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+
+        # team member loop
+    - name : "Astrid Prieling"
+      designation : "Kassierin"
+      image : "images/team/astrid.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+    
+        # team member loop
+    - name : "Hubert Edelsbacher"
+      designation : "Kassier Stv."
+      image : "images/team/avatar.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"
 
     # team member loop
-    - name : "Carmen Mürzl, BA MA"
+    - name : "Carmen Schlojer, BA MA"
       designation : "Schriftführerin"
       image : "images/team/carmen.jpeg"
       social:
@@ -127,24 +145,6 @@ team:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"    
-    # team member loop
-    - name : "Astrid Prieling"
-      designation : "Kassierin"
-      image : "images/team/astrid.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
-    # team member loop
-    - name : "Karl Tritscher"
-      designation : "Kassier Stv."
-      image : "images/team/karl.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
-
                 
     # team member loop
     - name : "Bernhard Mürzl"
@@ -155,7 +155,23 @@ team:
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
           link : "#"
 
-
+    # team member loop
+    - name : "Karl Tritscher"
+      designation : ""
+      image : "images/team/karl.jpeg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
+    
+    # team member loop
+    - name : "Roswitha Bacher"
+      designation : "Ehrenmitglied"
+      image : "images/team/roswitha.jpg"
+      social:
+        - name : "facebook"
+          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+          link : "#"
 
     # team member loop
     - name : "Dr. Doris Prieling"
