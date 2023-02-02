@@ -122,7 +122,7 @@ team:
         # team member loop
     - name : "Hubert Edelsbacher"
       designation : "Kassier Stv."
-      image : "images/team/avatar.jpeg"
+      image : "images/team/hubert.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
