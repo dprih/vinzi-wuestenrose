@@ -15,7 +15,7 @@ NEU: "Minifilialen" bei SPAR und ADEG sowie in der Ordination von Dr. Huber in S
 
 
 <!--more-->
-Dort können Bücher, Spiele uvm. aus dem KOSTNIX-Laden in Spendenboxen plaziert und gegen freiwillige Spende entnommen werden.  
+Dazu werden Bücher, Spiele uvm. aus dem KOSTNIX-Laden in Spendenboxen plaziert und können gegen freiwillige Spende entnommen werden.  
 
 Mit dem Spendenerlös werden Lebensmittelgutscheine gekauft und an Hilfsbedürftige in der Region weitergegeben.
 

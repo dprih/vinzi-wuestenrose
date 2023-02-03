@@ -156,13 +156,13 @@ team:
           link : "#"
 
     # team member loop
-    - name : "Karl Tritscher"
-      designation : ""
-      image : "images/team/karl.jpeg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+    #- name : "Karl Tritscher"
+    #  designation : ""
+    #  image : "images/team/karl.jpeg"
+    #  social:
+    #    - name : "facebook"
+    #      icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+    #      link : "#"
     
     # team member loop
     - name : "Roswitha Bacher"
