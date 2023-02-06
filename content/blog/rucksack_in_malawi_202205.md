@@ -6,7 +6,7 @@ description : "Rucksackprojekt"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/rucksack-da.jpg"
 categories:
-- "Projekt"
+- "Projekte"
 tags:
 - Rucksackprojekt
 - Hilfe die ankommt

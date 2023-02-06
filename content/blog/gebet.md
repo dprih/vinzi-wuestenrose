@@ -5,9 +5,9 @@ draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: images/images-3.jpg
 categories:
-  - ""
+  - "Impulse"
 tags:
-  - ""
+  - "Gebet"
 type: post
 description: Vinzenz
 ---

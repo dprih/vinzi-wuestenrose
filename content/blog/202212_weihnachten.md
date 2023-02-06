@@ -6,9 +6,9 @@ description : "Frohe Weihnachten"
 bgImage: "images/uploads/bluesky_landscape.jpg"
 image: "images/Weihnachten2022.png"
 categories:
-- "Projekt"
+- "Archiv"
 tags:
-- Missio
+- "Weihnachten"
 type: "post"
 ---
 

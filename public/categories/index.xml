@@ -6,31 +6,49 @@
     <description>Recent content in Categories on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archiv</title>
-      <link>https://www.vinzi-wuestenrose.at/categories/archiv/</link>
+      <title>Projekte</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/projekte/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/categories/projekte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verein</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/verein/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/categories/archiv/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/categories/verein/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projekt</title>
-      <link>https://www.vinzi-wuestenrose.at/categories/projekt/</link>
+      <title>Aktionen</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/aktionen/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/categories/aktionen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/news/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/categories/projekt/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spendenbericht</title>
-      <link>https://www.vinzi-wuestenrose.at/categories/spendenbericht/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Danksagung</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/danksagung/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/categories/spendenbericht/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/categories/danksagung/</guid>
       <description></description>
     </item>
     
@@ -49,6 +67,24 @@
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/categories/jubil%C3%A4umswoche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archiv</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/archiv/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/categories/archiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impulse</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/impulse/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/categories/impulse/</guid>
       <description></description>
     </item>
     

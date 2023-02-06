@@ -6,9 +6,9 @@ description : "Lebenshilfe hilft"
 bgImage: "images/uploads/bluesky_landscape.jpg"
 image: "images/LebenshilfeOberwoelzSchultaschen.jpg"
 categories:
-- "Projekt"
+- "Danksagung"
 tags:
-- Missio
+- Rucksackprojekt
 type: "post"
 ---
 Im Namen jedes einzelnen Kindes bedanken wir uns sehr herzlich bei der **Lebenshilfe Oberwölz** für die Teilnahme am Rucksackprojekt.

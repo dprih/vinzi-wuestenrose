@@ -6,9 +6,9 @@ description : "Neuer Vorstand der Vinzenzgemeinschaft Bezirk Murau"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/2023_vorstand.jpg"
 categories: 
-  - ""
+  - "Verein"
 tags:
-  - "VG Murau"
+  - "Vorstand"
 type: "post"
 ---
 

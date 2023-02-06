@@ -6,9 +6,9 @@ description : "VG Bezirk Murau - Artikel im ARMENDIENST ÖSTERREICH"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/uploads/Armendienst.png"
 categories: 
-  - ""
+  - "News"
 tags:
-  - "VG Murau"
+  - ""
 type: "post"
 ---
 Pro Bundesland darf sich eine Vinzenzgemeinschaft in der gemeinsamen Ausgabe der Vinzenzgemeinschaften **ARMENDIENST ÖSTERREICH** vorstellen. 

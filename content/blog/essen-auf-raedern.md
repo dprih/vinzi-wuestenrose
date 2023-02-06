@@ -5,9 +5,9 @@ draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: images/EssenAufRaedern.jpg
 categories:
-  - ""
+  - "Aktionen"
 tags:
-  - ""
+  - "Essen auf Rädern"
 type: post
 description: Essen auf Rädern
 ---

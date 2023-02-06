@@ -1,7 +1,7 @@
 ########################### about ###############################
 about:
   enable : true
-  image : "images/uploads/Promo-Instagram-Instagram ad square.jpeg" #Gruppenfoto
+  image : images/2023_vorstand.jpg #"images/uploads/Promo-Instagram-Instagram ad square.jpeg" #Gruppenfoto
   title : "Wissenswertes über die Vinzenzgemeinschaft Bezirk Murau"
   leadContent : "Die Vinzenzgemeinschaft Bezirk Murau wurde 2015 gegründet, als unzählige schutzsuchende Menschen nach Österreich gekommen sind. 
   Für unser erstes Projekt wählten wir damals den Namen „Wüstenrose – wenn Menschen sich gegenseitig zur Quelle werden“. <br/><br/>

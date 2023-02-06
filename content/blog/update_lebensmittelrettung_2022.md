@@ -6,7 +6,7 @@ description : "Rucksackprojekt"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/lebensmittelupdate_mb.jpg"
 categories:
-- "Projekt"
+- "Projekte"
 tags:
 - Lebensmittelrettung
 type: "post"

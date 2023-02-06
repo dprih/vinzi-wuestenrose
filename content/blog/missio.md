@@ -5,7 +5,7 @@ draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: images/blog/weltmissio.png
 categories:
-  - ""
+  - "Archiv"
 tags:
   - ""
 type: post

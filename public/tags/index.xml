@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kostnix</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/kostnix/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/kostnix/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bericht</title>
       <link>https://www.vinzi-wuestenrose.at/tags/bericht/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/tags/bericht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehrenmitglied</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/ehrenmitglied/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/ehrenmitglied/</guid>
       <description></description>
     </item>
     
@@ -26,47 +44,65 @@
     </item>
     
     <item>
-      <title>VG Murau</title>
-      <link>https://www.vinzi-wuestenrose.at/tags/vg-murau/</link>
+      <title>Vorstand</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/vorstand/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/tags/vg-murau/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/tags/vorstand/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hilfe die ankommt</title>
-      <link>https://www.vinzi-wuestenrose.at/tags/hilfe-die-ankommt/</link>
+      <title>Essen auf Rädern</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/essen-auf-r%C3%A4dern/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/essen-auf-r%C3%A4dern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danke</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/danke/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/tags/hilfe-die-ankommt/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/tags/danke/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Weihnachtspaketaktion</title>
-      <link>https://www.vinzi-wuestenrose.at/tags/weihnachtspaketaktion/</link>
+      <title>Weihnachten</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/weihnachten/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/tags/weihnachtspaketaktion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Missio</title>
-      <link>https://www.vinzi-wuestenrose.at/tags/missio/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vinzi-wuestenrose.at/tags/missio/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/tags/weihnachten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rucksackprojekt</title>
       <link>https://www.vinzi-wuestenrose.at/tags/rucksackprojekt/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/tags/rucksackprojekt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missio</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/missio/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/missio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hilfe die ankommt</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/hilfe-die-ankommt/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/hilfe-die-ankommt/</guid>
       <description></description>
     </item>
     
@@ -76,6 +112,15 @@
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/tags/lebensmittelrettung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firmlinge</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/firmlinge/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/firmlinge/</guid>
       <description></description>
     </item>
     
@@ -98,6 +143,15 @@
     </item>
     
     <item>
+      <title>Weihnachtspaketaktion</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/weihnachtspaketaktion/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/weihnachtspaketaktion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Veranstaltung</title>
       <link>https://www.vinzi-wuestenrose.at/tags/veranstaltung/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
@@ -112,6 +166,15 @@
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/tags/verein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebet</title>
+      <link>https://www.vinzi-wuestenrose.at/tags/gebet/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/tags/gebet/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,9 @@ description : "Weihnachtspakete für Georgien und Ukraine"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/2022weihnachtspakete.jpg"
 categories:
-- "Projekt"
+- "Aktionen"
 tags:
-- Weihnachtspaketaktion
-- Hilfe die ankommt
+- Weihnachten
 type: "post"
 ---
 Hilfe die ankommt!

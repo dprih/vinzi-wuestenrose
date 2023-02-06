@@ -9,7 +9,7 @@ categories:
   - "Archiv"
 tags:
   - "Generalversammlung"
-  - "Bericht"
+  - "Verein"
 type: "post"
 ---
 

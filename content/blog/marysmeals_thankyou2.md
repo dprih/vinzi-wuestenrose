@@ -5,7 +5,7 @@ draft: false
 bgImage: images/2mio.jpg
 image: images/mm_news.png
 categories:
-  - Spendenbericht
+  - Danksagung
 tags:
   - Marys Meals
 type: post

@@ -6,7 +6,7 @@ description : "Bericht Generalversammlung"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/2023_vorstand-bgm.jpg"
 categories: 
-  - "Archiv"
+  - "Verein"
 tags:
   - "Generalversammlung"
   - "Bericht"

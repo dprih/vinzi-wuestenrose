@@ -6,7 +6,7 @@ description : "Projekt Moldawien"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/packerl.jpg"
 categories:
-- "Projekt"
+- "Projekte"
 tags:
 - Moldawien
 - Weihnachtspaketaktion

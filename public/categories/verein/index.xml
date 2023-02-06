@@ -2,48 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verein on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
-    <link>https://vinzi-wuestenrose.netlify.app/categories/verein/</link>
+    <link>https://www.vinzi-wuestenrose.at/categories/verein/</link>
     <description>Recent content in Verein on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vinzi-wuestenrose.netlify.app/categories/verein/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>5 Jahre Vinzenzgemeinschaft Bezirk Murau</title>
-      <link>https://vinzi-wuestenrose.netlify.app/blog/jubilaeum5jahre/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vinzi-wuestenrose.netlify.app/blog/jubilaeum5jahre/</guid>
-      <description>&lt;h5 id=&#34;unterwegs-im-auftrag-der-nächstenliebe&#34;&gt;Unterwegs im Auftrag der Nächstenliebe&lt;/h5&gt;
-&lt;p&gt;Die Vinzenzgemeinschaft Bezirk Murau wurde vor 5 Jahren gegründet, als unzählige schutzsuchende Menschen nach Österreich gekommen sind.
-Für unser erstes Projekt wählten wir damals den Namen &lt;strong&gt;„Wüstenrose – wenn Menschen sich gegenseitig zur Quelle werden“&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Jubiläumswoche Vinzenz von Paul    der VG Bezirk Murau-Wüstenrose      von 19. bis 27. September 2021</title>
-      <link>https://vinzi-wuestenrose.netlify.app/blog/jubileumswoche/</link>
-      <pubDate>Tue, 29 Jun 2021 22:00:00 +0000</pubDate>
-      
-      <guid>https://vinzi-wuestenrose.netlify.app/blog/jubileumswoche/</guid>
-      <description>Jubiläumswoche Vinzenz von Paul
-Da wegen der Corona Maßnahmen die Vinzenzgemeinschaft Bezirk Murau den 5. Jahrestag nicht gemeinsam mit allen Verantwortlichen, Mitgliedern und Unterstüztern begehen konnte, möchten wir von 19.</description>
-    </item>
-    
-    <item>
-      <title>Wir trauern um Ingrid</title>
-      <link>https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/</link>
-      <pubDate>Thu, 25 Mar 2021 11:28:32 +0600</pubDate>
-      
-      <guid>https://vinzi-wuestenrose.netlify.app/blog/trauerumingrid/</guid>
-      <description>&lt;p&gt;Wir trauern um Ingrid&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/verein/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bericht zur Generalversammlung</title>
-      <link>https://vinzi-wuestenrose.netlify.app/blog/bericht_gv_20210627/</link>
-      <pubDate>Wed, 25 Sep 2019 11:28:32 +0600</pubDate>
+      <link>https://www.vinzi-wuestenrose.at/blog/bericht_gv_20230115/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vinzi-wuestenrose.netlify.app/blog/bericht_gv_20210627/</guid>
-      <description>&lt;p&gt;Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU nach der Generalversammlung&lt;/p&gt;</description>
+      <guid>https://www.vinzi-wuestenrose.at/blog/bericht_gv_20230115/</guid>
+      <description>&lt;p&gt;&lt;em&gt;„Lasst uns nicht müde werden das Gute zu tun“ (Gal 6,9)&lt;/em&gt;&lt;br&gt;
+Dieses Bibelzitat stand bei der Generalversammlung der Vinzenzgemeinschaft Bezirk Murau am Beginn des Tätigkeitsberichts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ehrenmitglied</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/2023_ehrenmitglied/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/2023_ehrenmitglied/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuer Vorstand der Vinzenzgemeinschaft Bezirk Murau</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/2023_vorstandneu/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/2023_vorstandneu/</guid>
+      <description></description>
     </item>
     
   </channel>

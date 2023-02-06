@@ -6,9 +6,9 @@ description : "Kleine Unterstützung für den KOSTNIX-LADEN"
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/202301_oevpKostnix.jpg"
 categories: 
-  - ""
+  - "News"
 tags:
-  - "VG Murau"
+  - "Danke"
 type: "post"
 ---
 Ein herzliches Dankeschön an die ÖVP St. Peter am Kammersberg für die Unterstüztung den Kostnix-Ladens!

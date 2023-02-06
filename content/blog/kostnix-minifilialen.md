@@ -5,9 +5,9 @@ draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: images/minifilialen.jpg
 categories:
-  - ""
+  - "Projekte"
 tags:
-  - ""
+  - "Kostnix"
 type: post
 description: Minifilialen (KOSTNIX-Laden)
 ---
