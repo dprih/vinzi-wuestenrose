@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verein</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/verein/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/categories/verein/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Projekte</title>
       <link>https://www.vinzi-wuestenrose.at/categories/projekte/</link>
@@ -17,11 +26,11 @@
     </item>
     
     <item>
-      <title>Verein</title>
-      <link>https://www.vinzi-wuestenrose.at/categories/verein/</link>
+      <title>Archiv</title>
+      <link>https://www.vinzi-wuestenrose.at/categories/archiv/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vinzi-wuestenrose.at/categories/verein/</guid>
+      <guid>https://www.vinzi-wuestenrose.at/categories/archiv/</guid>
       <description></description>
     </item>
     
@@ -67,15 +76,6 @@
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/categories/jubil%C3%A4umswoche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Archiv</title>
-      <link>https://www.vinzi-wuestenrose.at/categories/archiv/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vinzi-wuestenrose.at/categories/archiv/</guid>
       <description></description>
     </item>
     
