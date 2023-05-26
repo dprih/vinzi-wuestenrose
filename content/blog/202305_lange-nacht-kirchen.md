@@ -3,7 +3,7 @@ title: Einladung zur Langen Nacht der Kirchen
 date: 2023-05-25
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: images/LangeNachtKirchen.png
+image: images/LangeNachtKirchen2.png
 categories:
   - 
 tags:
