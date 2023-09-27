@@ -113,7 +113,7 @@ team:
         # team member loop
     - name : "Astrid Prieling"
       designation : "Kassierin"
-      image : "images/team/astrid.jpg"
+      image : "images/team/astrid_prieling_new.jpeg"
       social:
         - name : "facebook"
           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
