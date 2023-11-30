@@ -12,6 +12,8 @@ description: Bezirksadventkonzert
 ---
 Einladung zum Bezirksadventkonzert in der Wahlfahrtskirche Schöder
 
+Der Spendenerlös kommt dankbarerweise der Vinzenzgemeinschaft zugute!
+
 <!--more-->
 Mitwirkende
 - Kinder der Volksschule Schöder
