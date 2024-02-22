@@ -11,7 +11,7 @@ type: event
 description: Generalversammlung 18. Februar 2024
 ---
 
-Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung am Sonntag 18.2.2024 um 10:00 Uhr im Gashof Hirschenwirt.  
+Der Vorstand der VINZENZGEMEINSCHAFT BEZIRK MURAU ladet zur Generalversammlung am Sonntag 18.2.2024 um 10:0G0 Uhr im Gashof Hirschenwirt.  
 Wir freuen uns auf euer Kommen!
 <!--more-->
 ## Tagesordnung
