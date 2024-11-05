@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mary&#39;s Meals Österreich on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
+    <title>Marys Meals Österreich on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
     <link>https://www.vinzi-wuestenrose.at/categories/marys-meals-%C3%B6sterreich/</link>
-    <description>Recent content in Mary&#39;s Meals Österreich on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
+    <description>Recent content in Marys Meals Österreich on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://www.vinzi-wuestenrose.at/categories/marys-meals-%C3%B6sterreich/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/marys-meals-%C3%B6sterreich/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rucksackprojekt</title>
       <link>https://www.vinzi-wuestenrose.at/causes/30_rucksackprojekt/</link>
@@ -19,14 +20,23 @@
     </item>
     
     <item>
-      <title>Schulkückenpatenschaft Bezirk Murau</title>
+      <title>Schulküchenpatenschaft Bezirk Murau</title>
       <link>https://www.vinzi-wuestenrose.at/causes/50_schulkuechenpatenschaft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.vinzi-wuestenrose.at/causes/50_schulkuechenpatenschaft/</guid>
       <description>&lt;h3 id=&#34;marys-meals-österreich&#34;&gt;Mary&amp;rsquo;s Meals Österreich&lt;/h3&gt;
 &lt;p&gt;Schulernährung für hungernde Kinder.
-Mit 18,30€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!&lt;/p&gt;</description>
+Mit 22€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schulküchenpatenschaft Bezirk Murau - Marys Meals</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/202411_schulkuechemurau/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/202411_schulkuechemurau/</guid>
+      <description>&lt;p&gt;Die Schulküchenpatenschaft Bezirk Murau ist Teil der Marys Meals Familie und wurde auf Initative von Ingrid Illitsch gegründet.&lt;/p&gt;</description>
     </item>
     
   </channel>

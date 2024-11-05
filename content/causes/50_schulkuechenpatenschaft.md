@@ -1,10 +1,10 @@
 ---
-title: Schulkückenpatenschaft Bezirk Murau
+title: Schulküchenpatenschaft Bezirk Murau
 date: 2020-07-2T11:28:32+06:00
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
 image: "images/202212marysmeals.png"
-goal: 18,30€ pro Jahr für eine tägliche Mahlzeit
+goal: 22€ pro Jahr für eine tägliche Mahlzeit
 raised: 
 weight: 40
 categories:
@@ -16,7 +16,7 @@ description: Schulkückenpatenschaft
 
 ### Mary's Meals Österreich
 Schulernährung für hungernde Kinder. 
-Mit 18,30€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!
+Mit 22€ pro Jahr ermöglichen Sie einem Kind eine tägliche Mahlzeit in der Schule!
 <!--more-->
 <!-- image: "images/mm_murau.png" -->
 _Mary's Meals - eine Schale Getreide verändert die Welt_
