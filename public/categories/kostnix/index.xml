@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kostnix on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
+    <title>Kostnix on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</title>
     <link>https://www.vinzi-wuestenrose.at/categories/kostnix/</link>
-    <description>Recent content in kostnix on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
+    <description>Recent content in Kostnix on Vinzenzgemeinschaft Bezirk Murau - Wuestenrose</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://www.vinzi-wuestenrose.at/categories/kostnix/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vinzi-wuestenrose.at/categories/kostnix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KOSTNIX-Laden</title>
       <link>https://www.vinzi-wuestenrose.at/causes/10_kostnix-laden/</link>
@@ -16,6 +17,26 @@
 &lt;p&gt;Als Vinzenzgemeinschaft nehmen wir auch die Verantwortung für eine lebenswerte Zukunft wahr und setzen ein Zeichen, um Nachhaltigkeit zu fördern und Ressourcen zu schonen.
 Durch das Prinzip: TAUSCHEN STATT WEGWERFEN geben wir brauchbaren Dingen ein zweites Leben, und bieten Kleidung uvm. in unserem KOSTNIX-Laden im
 &lt;strong&gt;Pfarrhof St. Peter / Kbg. zur freien Entnahme&lt;/strong&gt; an.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Miteinander für unser kostbares Brot</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/202404_brotverteiler/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/202404_brotverteiler/</guid>
+      <description>&lt;p&gt;BROT Verteiler vor dem
+&lt;a href=&#34;https://www.vinzi-wuestenrose.at/causes/10_kostnix-laden/&#34;&gt;KOSTNIX Laden&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brillen ohne Grenzen</title>
+      <link>https://www.vinzi-wuestenrose.at/blog/202403_brillenohnegrenzen/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vinzi-wuestenrose.at/blog/202403_brillenohnegrenzen/</guid>
+      <description>&lt;p&gt;Wir sammeln mit bei Brillen ohne Grenzen!&lt;br&gt;
+Eine neue Sammelbox im &lt;a href=&#34;https://www.vinzi-wuestenrose.at/causes/10_kostnix-laden/&#34;&gt;KOSTNIX Laden&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
