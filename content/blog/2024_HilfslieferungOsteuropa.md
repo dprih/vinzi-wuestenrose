@@ -22,4 +22,4 @@ Das heißt diese Hilfslieferungen haben eine dreifach Wirkung
 - Weiterverwendung von brauchbaren Dingen
 - Müllvermeidung in unserer Wegwerfgesellschaft
 
-Die breits fünfte Hilfslieferung wurde in Zusammenarbeit mit dem Verein [FreiRaum - Neumarkt/Steiermark](https://www.facebook.com/groups/350625670875229/posts/553834080554386/) durchgeführt. 
+Die bereits fünfte Hilfslieferung wurde in Zusammenarbeit mit dem Verein [FreiRaum - Neumarkt/Steiermark](https://www.facebook.com/groups/350625670875229/posts/553834080554386/) durchgeführt. 
