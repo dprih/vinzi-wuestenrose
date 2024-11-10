@@ -11,16 +11,15 @@ tags:
 type: post
 description: Hilfslieferungen für Menschen in Osteuropa
 ---
-In Zusammenarbeit mit dem Verein [FreiRaum - Neumarkt/Steiermark](https://www.facebook.com/groups/350625670875229/posts/553834080554386/) wurde die bereits fünfte Hilfslieferung für Menschen in Osteuropa verabschiedet.   
+In nur 10 Monaten wurde der LKW fünf Mal voll beladen!!!  
 
-In nur 10 Monaten wurde der LKW fünf Mal voll beladen!!!
-
+Diese Hilfslieferungen zeigen welche großen Mengen an Sachspenden in unserem kleinen [KOSTNIX Laden](https://www.vinzi-wuestenrose.at/causes/10_kostnix-laden/) abgegeben werden!  
 <!--more-->
 Viele brauchbare Sachspenden die bei uns keine Verwendung finden werden von ehrenamtlichen MitarbeiterInnen sortiert, verpackt und verladen.  
 
-Diese Hilfslieferungen zeigen welche großen Mengen an Sachspenden in unserem kleinen [KOSTNIX Laden](https://www.vinzi-wuestenrose.at/causes/10_kostnix-laden/) abgegeben werden!  
-
-Das heißt diese Hilfslieferungen haben eine dreifach Wrikung
+Das heißt diese Hilfslieferungen haben eine dreifach Wirkung
 - Hilfe für arme Familien in Osteuropa
 - Weiterverwendung von brauchbaren Dingen
 - Müllvermeidung in unserer Wegwerfgesellschaft
+
+Die breits fünfte Hilfslieferung wurde in Zusammenarbeit mit dem Verein [FreiRaum - Neumarkt/Steiermark](https://www.facebook.com/groups/350625670875229/posts/553834080554386/) durchgeführt. 

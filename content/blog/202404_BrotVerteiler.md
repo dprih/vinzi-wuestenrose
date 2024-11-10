@@ -2,7 +2,7 @@
 title: Miteinander für unser kostbares Brot
 date: 2024-04-02
 draft: false
-bgImage: images/2mio.jpg
+bgImage: images/brot_banner.jpg
 image: images/Brotverteiler.jpg
 categories:
   - Kostnix
