@@ -1,8 +1,12 @@
 ---
-title: "Projekte"
-date: 2019-09-25T11:28:32+06:00
+title: WEIHNACHTSPAKETAKTION 2021
+date: 2021-11-03T06:28:32.000Z
 draft: false
-description : "this is a meta description"
-bgImage: "images/uploads/bluesky_landscape.jpeg"
+bgImage: images/moldawien-2021.jpg
+image: null
+goal: "::"
+raised: ":::"
+type: x
+description: this is a meta description
 ---
-
+:::
