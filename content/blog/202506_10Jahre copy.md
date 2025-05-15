@@ -3,7 +3,7 @@ title: Ein herzliches DANKESCHÖN an alle Sponsoren und Netzwerkpartner!
 date: 2025-05-12
 draft: false
 bgImage: "images/uploads/bluesky_landscape.jpeg"
-image: images/10jahre_sponsoren.png
+image: images/10ysponsoren_update.jpg
 eventDate: "1. Juni 2025, 10 Uhr Gottesdienst"
 location: Pfarre St. Peter/Kbg
 organizer: Vinzenzgemeinschaft Bezirk Murau
