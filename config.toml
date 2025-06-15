@@ -209,6 +209,8 @@ icon = "ti-mobile" # themify icon pack https://themify.me/themify-icons
 name = "whatsapp"
 link = "whatsapp://send?text={{ $body }}"
 
+[markup.goldmark.renderer]
+unsafe = true
 # pictures
 ## bg: 1920x760
 ## blog: 400x300
